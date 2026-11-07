@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/locations/regioes/lumina/regioes/ecos-da-meia-noite/ecos-da-meia-noite/","dg-note-properties":{"Name":"Ecos da Meia-Noite","Type":"Região","Control":["[[notes/factions/Facções/Limiatrofes/Limiatrofes]]"],"Parent":"[[notes/locations/Regiões/Lumina/Lumina]]","Map":"[[notes/maps/Mapa de Thalexia]]","Cover":null,"Base":"locations"}}
 ---
 
-dg-publish: true
+
 
 
 > [!infobox]

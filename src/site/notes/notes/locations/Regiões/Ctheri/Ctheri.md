@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/locations/regioes/ctheri/ctheri/","dg-note-properties":{"Name":"Ctheri","Type":"Região","Control":[],"Parent":null,"Map":"[[notes/maps/Mapa de Thalexia]]","Cover":null,"Base":"locations"}}
 ---
 
-dg-publish: true
+
 
 
 > [!infobox]

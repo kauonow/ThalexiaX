@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/locations/regioes/leste-do-nhalos/pontos-de-interesse/recife-luminoso/recife-luminoso/","dg-note-properties":{"Name":"Recife Luminoso","Type":"Ponto de Interesse","Control":[],"Parent":"[[notes/locations/Regiões/Leste do Nhalos/Leste do Nhalos]]","Map":"[[notes/maps/Mapa de Thalexia]]","Cover":null,"Base":"locations"}}
 ---
 
-dg-publish: true
+
 
 
 > [!infobox]

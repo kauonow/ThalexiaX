@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/locations/regioes/prismora-do-norte/prismora-do-norte/","dg-note-properties":{"Name":"Prismora do Norte","Type":"Região","Control":[],"Parent":null,"Map":"[[notes/maps/Mapa de Thalexia]]","Cover":null,"Base":"locations"}}
 ---
 
-dg-publish: true
+
 
 
 > [!infobox]

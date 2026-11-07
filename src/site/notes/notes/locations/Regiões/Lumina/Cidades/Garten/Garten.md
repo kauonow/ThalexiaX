@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/locations/regioes/lumina/cidades/garten/garten/","dg-note-properties":{"Name":"Garten","Type":"Cidade","Control":["[[notes/factions/Facções/Limiatrofes/Limiatrofes]]"],"Parent":"[[notes/locations/Regiões/Lumina/Lumina]]","Map":"[[notes/maps/Mapa de Thalexia]]","Cover":null,"Base":"locations"}}
 ---
 
-dg-publish: true
+
 
 
 > [!infobox]

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/locations/regioes/leste-do-nhalos/cidades/estreito-da-gloria/estreito-da-gloria/","dg-note-properties":{"Name":"Estreito da Glória","Type":"Cidade","Control":["[[notes/factions/Facções/Bastionarcas/Bastionarcas]]"],"Parent":"[[notes/locations/Regiões/Leste do Nhalos/Leste do Nhalos]]","Map":"[[notes/maps/Mapa de Thalexia]]","Cover":null,"Base":"locations"}}
 ---
 
-dg-publish: true
+
 
 
 > [!infobox]

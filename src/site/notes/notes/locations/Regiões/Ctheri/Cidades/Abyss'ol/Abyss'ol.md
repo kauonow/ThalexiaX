@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/locations/regioes/ctheri/cidades/abyss-ol/abyss-ol/","dg-note-properties":{"Name":"Abyss'ol","Type":"Cidade","Control":[],"Parent":"[[notes/locations/Regiões/Ctheri/Ctheri]]","Map":"[[notes/maps/Mapa de Thalexia]]","Cover":null,"Base":"locations"}}
 ---
 
-dg-publish: true
+
 
 
 > [!infobox]

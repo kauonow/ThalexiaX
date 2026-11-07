@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/locations/regioes/lumina/cidades/garten/pontos-de-interesse/sarut/sarut/","dg-note-properties":{"Name":"Sarut","Type":"Ponto de Interesse","Control":["[[notes/factions/Facções/Limiatrofes/Subfacções/Sadidas (subfacção)/Sadidas (subfacção)]]"],"Parent":"[[notes/locations/Regiões/Lumina/Cidades/Garten/Garten]]","Map":"[[notes/maps/Mapa de Thalexia]]","Cover":null,"Base":"locations"}}
 ---
 
-dg-publish: true
+
 
 
 > [!infobox]

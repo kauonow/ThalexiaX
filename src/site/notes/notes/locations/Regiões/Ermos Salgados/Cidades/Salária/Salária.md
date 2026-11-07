@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/locations/regioes/ermos-salgados/cidades/salaria/salaria/","dg-note-properties":{"Name":"Salária","Type":"Cidade","Control":["[[notes/factions/Facções/Bastionarcas/Bastionarcas]]"],"Parent":"[[notes/locations/Regiões/Ermos Salgados/Ermos Salgados]]","Map":"[[notes/maps/Mapa de Thalexia]]","Cover":null,"Base":"locations"}}
 ---
 
-dg-publish: true
+
 
 
 > [!infobox]

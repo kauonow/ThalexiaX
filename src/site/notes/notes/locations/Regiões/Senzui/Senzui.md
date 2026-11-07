@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/locations/regioes/senzui/senzui/","dg-note-properties":{"Name":"Senzui","Type":"Região","Control":["[[notes/factions/Facções/Limiatrofes/Limiatrofes]]"],"Parent":null,"Map":"[[notes/maps/Mapa de Thalexia]]","Cover":null,"Base":"locations"}}
 ---
 
-dg-publish: true
+
 
 
 > [!infobox]
