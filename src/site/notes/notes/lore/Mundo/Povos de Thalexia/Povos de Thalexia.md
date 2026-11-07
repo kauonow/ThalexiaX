@@ -9,7 +9,7 @@
 
 ## Quem Vive Aqui
 
-Há muitos povos, mas não todos. Os humanos são numerosos, e as raças comuns do D&D 5e vivem misturadas. [[compendium/01_Races/Races_Each/Human\|Human]], [[compendium/01_Races/Races_Each/Elf\|Elf]], [[compendium/01_Races/Races_Each/Dwarf\|Dwarf]], [[compendium/01_Races/Races_Each/Dragonborn\|Dragonborn]], [[compendium/01_Races/Races_Each/Gnome\|Gnome]], [[compendium/01_Races/Races_Each/Halfling\|Halfling]], [[compendium/01_Races/Races_Each/Half-Elf\|Half-Elf]], [[compendium/01_Races/Races_Each/Half-Orc\|Half-Orc]], [[compendium/01_Races/Races_Each/Tiefling\|Tiefling]] dentre outras...
+Há muitos povos, mas não todos. Os humanos são numerosos, e as raças comuns do D&D 5e vivem misturadas. [[Human\|Human]], [[Elf\|Elf]], [[Dwarf\|Dwarf]], [[Dragonborn\|Dragonborn]], [[Gnome\|Gnome]], [[Halfling\|Halfling]], [[Half-Elf\|Half-Elf]], [[Half-Orc\|Half-Orc]], [[Tiefling\|Tiefling]] dentre outras...
 
 ## Povos
 

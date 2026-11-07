@@ -8,7 +8,7 @@
 # Orcs e Meio-Orcs
 
 > [!success] Comprovado
-> Existem orcs que vivem em tribos, longe das cidades, e meio-orcs vivem no meio de todo mundo. Compêndio: [[compendium/01_Races/Races_Each/Half-Orc\|Half-Orc]].
+> Existem orcs que vivem em tribos, longe das cidades, e meio-orcs vivem no meio de todo mundo. Compêndio: [[Half-Orc\|Half-Orc]].
 
 > [!info] Amplamente aceito
 > Tribos de Orcs já foram exterminadas no passado, por pessoas de outras espécies cujas gerações hoje fazem parte de [[notes/factions/Facções/Limiatrofes/Limiatrofes\|Limiatrofes]] ou [[notes/factions/Facções/Bastionarcas/Bastionarcas\|Bastionarcas]].
