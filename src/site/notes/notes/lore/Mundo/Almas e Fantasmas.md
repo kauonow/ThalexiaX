@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/notes/lore/mundo/almas-e-fantasmas/","dg-note-properties":{"Name":"Almas e Fantasmas","Type":"World","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
+---
+
+dg-publish: true
+
+# Almas e Fantasmas
+
+> [!info] Amplamente aceito
+> Fantasmas existem e são raros.
