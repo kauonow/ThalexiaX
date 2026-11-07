@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/locations/regioes/prismora/prismora/","dg-note-properties":{"Name":"Prismora","Type":"Região","Control":[],"Parent":null,"Map":"[[notes/maps/Mapa de Thalexia]]","Cover":null,"Base":"locations"}}
 ---
 
-dg-publish: true
+
+
 
 > [!infobox]
 > # Prismora

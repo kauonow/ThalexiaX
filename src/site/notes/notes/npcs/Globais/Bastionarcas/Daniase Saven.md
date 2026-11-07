@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/npcs/globais/bastionarcas/daniase-saven/","dg-note-properties":{"AssociatedGroup":"[[notes/factions/Facções/Bastionarcas/Bastionarcas]]","Gender":"Feminino","Race":"[[compendium/01_Races/Races_Each/Dragonborn]]","Age":null,"Class":null,"Character-Role":"Conselheira dos Bastionarcas","Location":"[[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel]]","NoteIcon":"npc","Cover":null,"Scope":"Global","Base":"npcs"}}
 ---
 
-dg-publish: true
+
+
 
 > [!infobox]
 > # Daniase Saven

@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/handouts/00-documentos/","dg-note-properties":{"Name":"00 - Documentos","Type":"Hub","Base":"hubs"}}
 ---
 
-dg-publish: true
+
+
 
 # 00 - Documentos
 

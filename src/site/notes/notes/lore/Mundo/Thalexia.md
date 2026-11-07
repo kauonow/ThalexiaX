@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/mundo/thalexia/","dg-note-properties":{"Name":"Thalexia","Type":"World","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # Thalexia
 

@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/mundo/povos-de-thalexia/especies/gigantes-e-goliaths/","dg-note-properties":{"Name":"Gigantes e Goliaths","Type":"Peoples","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # Gigantes e Goliaths
 

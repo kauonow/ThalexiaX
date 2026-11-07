@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/templates/handouts/","dg-note-properties":{"Name":null,"Type":"Carta","Act":null,"FoundAt":null,"Cover":null,"Base":"handouts"}}
 ---
 
-dg-publish: true
+
+
 <%*
 let title = tp.file.title;
 if (/^(Sem título|Untitled|NewNPC)/.test(title)) {

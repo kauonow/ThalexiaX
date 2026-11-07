@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/mundo/tecnologia-em-thalexia/","dg-note-properties":{"Name":"Tecnologia em Thalexia","Type":"World","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # Tecnologia em Thalexia
 

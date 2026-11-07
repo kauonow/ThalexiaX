@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/mundo/povos-de-thalexia/especies/orcs-e-meio-orcs/","dg-note-properties":{"Name":"Orcs e Meio-Orcs","Type":"Peoples","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # Orcs e Meio-Orcs
 

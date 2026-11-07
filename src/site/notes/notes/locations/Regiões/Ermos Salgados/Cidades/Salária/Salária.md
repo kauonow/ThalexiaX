@@ -4,6 +4,7 @@
 
 dg-publish: true
 
+
 > [!infobox]
 > # Salária
 > ![ImagePlaceholder.png\|cover hsmall](/img/user/attachments/ImagePlaceholder.png)

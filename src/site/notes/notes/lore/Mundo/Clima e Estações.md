@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/mundo/clima-e-estacoes/","dg-note-properties":{"Name":"Clima e Estações","Type":"World","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # Clima e Estações
 

@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/notes/thalexia-inicio/","dg-note-properties":{"Name":"Thalexia - Início","Type":"Hub","Base":"hubs"}}
+{"dg-publish":true,"permalink":"/notes/thalexia-inicio/","tags":["gardenEntry"],"dg-note-properties":{"Name":"Thalexia - Início","Type":"Hub","Base":"hubs"}}
 ---
+
+
 
 
 

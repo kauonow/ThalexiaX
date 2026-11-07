@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/npcs/globais/limiatrofes/salorin-tiessonor/","dg-note-properties":{"AssociatedGroup":"[[notes/factions/Facções/Limiatrofes/Limiatrofes]]","Gender":"Masculino","Race":"[[compendium/01_Races/Races_Each/Elf]]","Age":"Muito idoso, até para um elfo","Class":"[[compendium/02_Classes/Wizard]]","Character-Role":"Mago e líder dos Limiatrofes","Location":"[[notes/locations/Pontos de Interesse/A Torre/A Torre]]","NoteIcon":"npc","Cover":"[[attachments/Salorin Tiessonor.png]]","Scope":"Global","Base":"npcs"}}
 ---
 
-dg-publish: true
+
+
 
 > [!infobox]
 > # Salorin Tiessonor

@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/00-lore/","dg-note-properties":{"Name":"00 - Lore","Type":"Hub","Base":"hubs"}}
 ---
 
-dg-publish: true
+
+
 
 # 00 - Lore
 

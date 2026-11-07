@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/lore/historia/guerra-do-ferro/","dg-note-properties":{"Name":"Guerra do Ferro","Type":"Event","Source":"Campanha Thalexia","Credibility":"Amplamente aceito","Base":"lore"}}
 ---
 
-dg-publish: true
+
 
 # Guerra do Ferro
 

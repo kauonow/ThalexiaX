@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/templates/factions/","dg-note-properties":{"Name":null,"Type":"Facção","Parent":null,"Leaders":[],"Regions":[],"Wants":null,"Cover":null,"Base":"factions"}}
 ---
 
-dg-publish: true
+
+
 <%*
 let title = tp.file.title;
 if (/^(Sem título|Untitled|NewNPC)/.test(title)) {

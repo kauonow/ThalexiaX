@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/lore/crencas/o-que-o-povo-acredita/","dg-note-properties":{"Name":"O que o Povo Acredita","Type":"Belief","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
+
 
 # O que o Povo Acredita
 

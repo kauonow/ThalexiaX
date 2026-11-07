@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/lore/fenomenos/o-mundo-afundando/","dg-note-properties":{"Name":"O Mundo Afundando","Type":"Phenomenon","Source":"Campanha Thalexia","Credibility":"Comprovado","Base":"lore"}}
 ---
 
-dg-publish: true
+
 
 # O Mundo Afundando
 

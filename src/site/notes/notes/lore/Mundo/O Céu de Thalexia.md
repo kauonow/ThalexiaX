@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/mundo/o-ceu-de-thalexia/","dg-note-properties":{"Name":"O Céu de Thalexia","Type":"World","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # O Céu de Thalexia
 

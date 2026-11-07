@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/mundo/povos-de-thalexia/especies/halflings/","dg-note-properties":{"Name":"Halflings","Type":"Peoples","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # Halflings
 

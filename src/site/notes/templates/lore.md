@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/templates/lore/","dg-note-properties":{"Name":null,"Type":null,"Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 <%*
 let title = tp.file.title;
 if (/^(Sem título|Untitled|NewNPC)/.test(title)) {

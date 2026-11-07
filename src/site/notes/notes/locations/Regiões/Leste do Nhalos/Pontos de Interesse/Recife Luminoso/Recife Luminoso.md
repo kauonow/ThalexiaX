@@ -4,6 +4,7 @@
 
 dg-publish: true
 
+
 > [!infobox]
 > # Recife Luminoso
 > ![ImagePlaceholder.png\|cover hsmall](/img/user/attachments/ImagePlaceholder.png)

@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/locations/regioes/leste-do-nhalos/leste-do-nhalos/","dg-note-properties":{"Name":"Leste do Nhalos","Type":"Região","Control":["[[notes/factions/Facções/Bastionarcas/Bastionarcas]]"],"Parent":null,"Map":"[[notes/maps/Mapa de Thalexia]]","Cover":null,"Base":"locations"}}
 ---
 
-dg-publish: true
+
+
 
 > [!infobox]
 > # Leste do Nhalos

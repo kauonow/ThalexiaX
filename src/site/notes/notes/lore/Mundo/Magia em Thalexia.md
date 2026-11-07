@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/mundo/magia-em-thalexia/","dg-note-properties":{"Name":"Magia em Thalexia","Type":"Magic","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # Magia em Thalexia
 

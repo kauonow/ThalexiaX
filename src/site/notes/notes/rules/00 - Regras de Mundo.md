@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/rules/00-regras-de-mundo/","dg-note-properties":{"Name":"00 - Regras de Mundo","Type":"Hub","Base":"hubs"}}
 ---
 
-dg-publish: true
+
+
 
 # 00 - Regras de Mundo
 

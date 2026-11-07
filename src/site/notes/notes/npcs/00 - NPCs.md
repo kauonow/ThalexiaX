@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/npcs/00-np-cs/","dg-note-properties":{"Name":"00 - NPCs","Type":"Hub","Base":"hubs"}}
 ---
 
-dg-publish: true
+
+
 
 # 00 - NPCs
 

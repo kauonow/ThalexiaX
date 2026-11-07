@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/mundo/povos-de-thalexia/especies/gnomos/","dg-note-properties":{"Name":"Gnomos","Type":"Peoples","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # Gnomos
 

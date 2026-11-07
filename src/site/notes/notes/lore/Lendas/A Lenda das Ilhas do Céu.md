@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/lore/lendas/a-lenda-das-ilhas-do-ceu/","dg-note-properties":{"Name":"A Lenda das Ilhas do Céu","Type":"Legend","Source":"Campanha Thalexia","Credibility":"Lenda","Base":"lore"}}
 ---
 
-dg-publish: true
+
 
 # A Lenda das Ilhas do Céu
 

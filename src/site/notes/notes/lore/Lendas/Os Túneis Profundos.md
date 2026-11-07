@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/lendas/os-tuneis-profundos/","dg-note-properties":{"Name":"Os Túneis Profundos","Type":"Legend","Source":"Campanha Thalexia","Credibility":"Lenda","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # Os Túneis Profundos
 

@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/npcs/globais/limiatrofes/eldamar-sadida/","dg-note-properties":{"AssociatedGroup":"[[notes/factions/Facções/Limiatrofes/Subfacções/Sadidas (subfacção)/Sadidas (subfacção)]]","Gender":null,"Race":"Satyr","Age":null,"Class":"[[compendium/02_Classes/Druid]]","Character-Role":"Druida de Sarut, líder dos Sadidas","Location":"[[notes/locations/Regiões/Lumina/Cidades/Garten/Garten]]","NoteIcon":"npc","Cover":null,"Scope":"Global","Base":"npcs"}}
 ---
 
-dg-publish: true
+
+
 
 > [!infobox]
 > # Eldamar Sadida

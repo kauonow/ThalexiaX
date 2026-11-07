@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/lore/historia/cronologia/","dg-note-properties":{"Name":"Cronologia","Type":"Timeline","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
+
 
 # Cronologia
 

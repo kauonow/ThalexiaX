@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/rules/a-travessia/","dg-note-properties":{"Name":"A Travessia","Source":"Campanha Thalexia","Base":"rules"}}
 ---
 
-dg-publish: true
+
+
 
 # A Travessia
 

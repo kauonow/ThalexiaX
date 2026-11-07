@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/locations/regioes/prismora/pontos-de-interesse/dargbur/dargbur/","dg-note-properties":{"Name":"Dargbur","Type":"Ponto de Interesse","Control":[],"Parent":"[[notes/locations/Regiões/Prismora/Prismora]]","Map":"[[notes/maps/Mapa de Thalexia]]","Cover":null,"Base":"locations"}}
 ---
 
-dg-publish: true
+
+
 
 > [!infobox]
 > # Dargbur

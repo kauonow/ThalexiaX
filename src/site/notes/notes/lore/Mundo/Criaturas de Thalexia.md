@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/mundo/criaturas-de-thalexia/","dg-note-properties":{"Name":"Criaturas de Thalexia","Type":"World","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # Criaturas de Thalexia
 

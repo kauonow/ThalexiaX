@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/mundo/planos-e-outros-mundos/","dg-note-properties":{"Name":"Planos e Outros Mundos","Type":"World","Source":"Campanha Thalexia","Credibility":"Lenda","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # Planos e Outros Mundos
 

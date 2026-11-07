@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/npcs/locais/saruna/dorian-vane/","dg-note-properties":{"aliases":["O Falecido","O Turrão"],"AssociatedGroup":null,"Gender":"Masculino","Race":"Meio-elfo (Half-Elf)","Age":"Adulto","Class":"Faz-tudo","Character-Role":"O Turrão","Location":"[[notes/locations/Regiões/Sul do Nhalos/Cidades/Saruna/Saruna]]","NoteIcon":"npc","Cover":null,"Scope":"Local","Base":"npcs"}}
 ---
 
-dg-publish: true
+
+
 
 > [!infobox]
 > # Dorian Vane

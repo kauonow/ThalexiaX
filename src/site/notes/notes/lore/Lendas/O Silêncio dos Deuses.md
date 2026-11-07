@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/lendas/o-silencio-dos-deuses/","dg-note-properties":{"Name":"O Silêncio dos Deuses","Type":"Legend","Source":"Campanha Thalexia","Credibility":"Amplamente aceito","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # O Silêncio dos Deuses
 

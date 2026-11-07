@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/handouts/ato-1/convite-para-o-funeral/","dg-note-properties":{"Name":"Convite para o Funeral","Type":"Carta","Act":"Ato 1","FoundAt":"Recebida por cada um de vocês","Cover":null,"Base":"handouts"}}
 ---
 
-dg-publish: true
+
+
 
 # Convite para o Funeral
 

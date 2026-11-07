@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/sinopse/","dg-note-properties":{"Name":"Sinopse","Type":"Sinopse","Base":"hubs"}}
 ---
 
-dg-publish: true
+
+
 
 # Sinopse: O Funeral
 

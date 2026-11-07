@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/templates/deities/","dg-note-properties":{"Name":null,"Domain":[],"Symbol":null,"Followers":[],"Cover":null,"Base":"deities"}}
 ---
 
-dg-publish: true
+
+
 <%*
 const targetFolder = "notes/deities";
 if (!tp.file.path(true).startsWith(`${targetFolder}/`)) {

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/lore/historia/heptarquia-de-aurethel/","dg-note-properties":{"Name":"Heptarquia de Aurethel","Type":"Polity","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
 
 # Heptarquia de Aurethel
 

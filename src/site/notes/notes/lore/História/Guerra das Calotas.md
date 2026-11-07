@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/lore/historia/guerra-das-calotas/","dg-note-properties":{"Name":"Guerra das Calotas","Type":"Event","Source":"Campanha Thalexia","Credibility":"Amplamente aceito","Base":"lore"}}
 ---
 
-dg-publish: true
+
 
 # Guerra das Calotas
 

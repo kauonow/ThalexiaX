@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/lore/historia/a-grande-guerra/","dg-note-properties":{"Name":"A Grande Guerra","Type":"History","Source":"Campanha Thalexia","Credibility":"Comprovado","Base":"lore"}}
 ---
 
-dg-publish: true
+
 
 # A Grande Guerra
 

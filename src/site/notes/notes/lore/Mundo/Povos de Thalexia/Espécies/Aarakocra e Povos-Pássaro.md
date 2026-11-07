@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/mundo/povos-de-thalexia/especies/aarakocra-e-povos-passaro/","dg-note-properties":{"Name":"Aarakocra e Povos-Pássaro","Type":"Peoples","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # Aarakocra e Povos-Pássaro
 

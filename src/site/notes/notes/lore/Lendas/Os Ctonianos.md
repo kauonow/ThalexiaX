@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/lendas/os-ctonianos/","dg-note-properties":{"Name":"Os Ctonianos","Type":"Legend","Source":"Campanha Thalexia","Credibility":"Lenda","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # Os Ctonianos
 

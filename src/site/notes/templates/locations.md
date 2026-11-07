@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/templates/locations/","dg-note-properties":{"Name":null,"Type":"Região","Control":[],"Parent":null,"Map":"[[notes/maps/Mapa de Thalexia]]","Cover":null,"Base":"locations"}}
 ---
 
-dg-publish: true
+
+
 <%*
 let title = tp.file.title;
 if (/^(Sem título|Untitled|NewNPC)/.test(title)) {

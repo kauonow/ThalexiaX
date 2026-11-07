@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/lore/crencas/a-triagem/","dg-note-properties":{"Name":"A Triagem","Type":"Institution","Source":"Campanha Thalexia","Credibility":"Conhecimento comum","Base":"lore"}}
 ---
 
-dg-publish: true
+
 
 # A Triagem
 

@@ -4,6 +4,7 @@
 
 dg-publish: true
 
+
 > [!infobox]
 > # Garten
 > ![Garten.jpeg\|cover hsmall](/img/user/attachments/Garten.jpeg)

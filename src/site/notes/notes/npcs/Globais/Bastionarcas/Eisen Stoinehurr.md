@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/npcs/globais/bastionarcas/eisen-stoinehurr/","dg-note-properties":{"AssociatedGroup":"[[notes/factions/Facções/Bastionarcas/Bastionarcas]]","Gender":"Masculino","Race":"[[compendium/01_Races/Races_Each/Dwarf]]","Age":null,"Class":null,"Character-Role":"Conselheiro dos Bastionarcas","Location":"[[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel]]","NoteIcon":"npc","Cover":null,"Scope":"Global","Base":"npcs"}}
 ---
 
-dg-publish: true
+
+
 
 > [!infobox]
 > # Eisen Stoinehurr

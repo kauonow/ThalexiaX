@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/lendas/o-outro-lado-da-muralha/","dg-note-properties":{"Name":"O Outro Lado da Muralha","Type":"Legend","Source":"Campanha Thalexia","Credibility":"Lenda","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # O Outro Lado da Muralha
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/lore/lendas/a-lenda-do-muro/","dg-note-properties":{"Name":"A Lenda do Muro","Type":"Legend","Source":"Campanha Thalexia","Credibility":"Lenda","Base":"lore"}}
 ---
 
-dg-publish: true
+
 
 # A Lenda do Muro
 

@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/npcs/globais/limiatrofes/aizal-kleeck/","dg-note-properties":{"AssociatedGroup":"[[notes/factions/Facções/Limiatrofes/Subfacções/Liminantes (subfacção)/Liminantes (subfacção)]]","Gender":"Feminino","Race":"Aarakocra","Age":null,"Class":"[[compendium/02_Classes/Cleric]]","Character-Role":"Clériga da Luz, líder dos Liminantes","Location":"[[notes/locations/Regiões/Ter'sen-Ly/Ter'sen-Ly]]","NoteIcon":"npc","Cover":null,"Scope":"Global","Base":"npcs"}}
 ---
 
-dg-publish: true
+
+
 
 > [!infobox]
 > # Aizal Kleeck

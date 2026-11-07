@@ -4,6 +4,7 @@
 
 dg-publish: true
 
+
 > [!infobox]
 > # Senzui
 > ![ImagePlaceholder.png\|cover hsmall](/img/user/attachments/ImagePlaceholder.png)

@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/rules/marcos-e-treinamento/","dg-note-properties":{"Name":"Marcos e Treinamento","Source":"Campanha Thalexia","Base":"rules"}}
 ---
 
-dg-publish: true
+
+
 
 # Marcos e Treinamento
 

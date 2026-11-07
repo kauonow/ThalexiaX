@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/rules/o-duelo/","dg-note-properties":{"Name":"O Duelo","Source":"Campanha Thalexia","Base":"rules"}}
 ---
 
-dg-publish: true
+
+
 
 # O Duelo
 

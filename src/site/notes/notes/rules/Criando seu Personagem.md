@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/rules/criando-seu-personagem/","dg-note-properties":{"Name":"Criando seu Personagem","Source":"Campanha Thalexia","Base":"rules"}}
 ---
 
-dg-publish: true
+
+
 
 # Criando seu Personagem
 

@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/lore/lendas/lendas-do-mar/","dg-note-properties":{"Name":"Lendas do Mar","Type":"Legend","Source":"Campanha Thalexia","Credibility":"Lenda","Base":"lore"}}
 ---
 
-dg-publish: true
+
+
 
 # Lendas do Mar
 

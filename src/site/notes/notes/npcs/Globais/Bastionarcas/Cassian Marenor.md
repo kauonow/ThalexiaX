@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/npcs/globais/bastionarcas/cassian-marenor/","dg-note-properties":{"AssociatedGroup":"[[notes/factions/Facções/Bastionarcas/Bastionarcas]]","Gender":"Masculino","Race":"[[compendium/01_Races/Races_Each/Human]]","Age":"Idoso","Class":null,"Character-Role":"Regente interino da Grande Muralha","Location":"[[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel]]","NoteIcon":"npc","Cover":"[[attachments/Cassian Marenor.png]]","Scope":"Global","Base":"npcs"}}
 ---
 
-dg-publish: true
+
+
 
 > [!infobox]
 > # Cassian Marenor
