@@ -38,6 +38,10 @@ Recife grande na **costa sul de [[notes/locations/Regiões/Leste do Nhalos/Leste
 
 Ninguém.
 
+## O que se Diz
+
+_Pouco se sabe._
+
 ## NPCs Aqui
 
 

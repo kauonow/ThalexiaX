@@ -41,7 +41,7 @@ Humano idoso e forte, de cabelo e barba grisalhos, com tapa-olho e uma cicatriz 
 > [!success] Comprovado
 > O pai dele foi morto por uma besta marinha colossal durante um mergulho.
 
-Também lidera, ao lado de [[notes/npcs/Globais/Bastionarcas/Eisen Stoinehurr\|Eisen Stoinehurr]], os [[notes/factions/Facções/Bastionarcas/Subfacções/Tevanarcas (subfacção)/Tevanarcas (subfacção)\|Tevanarcas (subfacção)]].
+Também lidera, ao lado de [[notes/npcs/Globais/Bastionarcas/Daniase Saven\|Daniase Saven]], os [[notes/factions/Facções/Bastionarcas/Subfacções/Tevanarcas (subfacção)/Tevanarcas (subfacção)\|Tevanarcas (subfacção)]].
 
 ## O que se Diz
 

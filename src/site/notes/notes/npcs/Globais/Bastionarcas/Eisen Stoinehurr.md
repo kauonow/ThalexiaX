@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/npcs/globais/bastionarcas/eisen-stoinehurr/","dg-note-properties":{"AssociatedGroup":"[[notes/factions/Facções/Bastionarcas/Bastionarcas]]","Gender":"Masculino","Race":"[[Dwarf]]","Age":null,"Class":null,"Character-Role":"Conselheiro dos Bastionarcas","Location":"[[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel]]","NoteIcon":"npc","Cover":null,"Scope":"Global","Base":"npcs"}}
+{"dg-publish":true,"permalink":"/notes/npcs/globais/bastionarcas/eisen-stoinehurr/","dg-note-properties":{"AssociatedGroup":"[[notes/factions/Facções/Bastionarcas/Subfacções/Argonautas (subfacção)/Argonautas (subfacção)]]","Gender":"Masculino","Race":"[[Dwarf]]","Age":null,"Class":null,"Character-Role":"Anão conselheiro dos Bastionarcas, possui grande influência nos [[Argonautas (subfacção)]]","Location":"[[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel]]","NoteIcon":"npc","Cover":null,"Scope":"Global","Base":"npcs"}}
 ---
 
 
@@ -13,7 +13,7 @@
 > Type |  Stat |
 > ---|---|
 > Home | [[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel\|Grande Muralha de Aurethel]] |
-> Group | [[notes/factions/Facções/Bastionarcas/Bastionarcas\|Bastionarcas]] |
+> Group | [[notes/factions/Facções/Bastionarcas/Subfacções/Argonautas (subfacção)/Argonautas (subfacção)\|Argonautas (subfacção)]] |
 > Sex | Masculino |
 > Race | [[Dwarf\|Dwarf]] |
 > Age | `=this.age` |
@@ -21,13 +21,13 @@
 > Type |  Stat |
 > ---|---|
 > Class | `=this.class` |
-> Character Role | Conselheiro dos Bastionarcas |
+> Character Role | Anão conselheiro dos Bastionarcas, possui grande influência nos [[notes/factions/Facções/Bastionarcas/Subfacções/Argonautas (subfacção)/Argonautas (subfacção)\|Argonautas (subfacção)]] |
 
 # Eisen Stoinehurr
 
 ## Profile
 
-Conselheiro dos [[notes/factions/Facções/Bastionarcas/Bastionarcas\|Bastionarcas]]
+Anão, conselheiro dos [[notes/factions/Facções/Bastionarcas/Bastionarcas\|Bastionarcas]], ligado aos [[notes/factions/Facções/Bastionarcas/Subfacções/Argonautas (subfacção)/Argonautas (subfacção)\|Argonautas (subfacção)]]
 
 ## Aparência
 
@@ -35,7 +35,7 @@ _Pouco se sabe._
 
 ## O que Todos Sabem
 
-Faz parte do conselho que governa a Muralha, e lidera, ao lado de [[notes/npcs/Globais/Bastionarcas/Cassian Marenor\|Cassian Marenor]], os [[notes/factions/Facções/Bastionarcas/Subfacções/Tevanarcas (subfacção)/Tevanarcas (subfacção)\|Tevanarcas (subfacção)]].
+Faz parte do conselho que governa a Muralha, e lidera, ao lado de [[notes/npcs/Globais/Bastionarcas/Cassian Marenor\|Cassian Marenor]], os [[notes/factions/Facções/Bastionarcas/Subfacções/Argonautas (subfacção)/Argonautas (subfacção)\|Argonautas (subfacção)]].
 
 ## O que se Diz
 

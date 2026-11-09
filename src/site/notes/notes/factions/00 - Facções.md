@@ -25,6 +25,7 @@ Dois grupos disputam o rumo do mundo, e uma lenda fala de um terceiro. O povo co
 |---|---|
 | [[notes/factions/Facções/Ganchos de Hierro/Ganchos de Hierro\|Ganchos de Hierro]] | Piratas, a maioria ex-militares dos Bastionarcas |
 | [[notes/factions/Facções/Vaelari/Vaelari\|Vaelari]] | Guardiões neutros, divididos em quatro ordens, uma para cada elemento |
+| [[notes/factions/Facções/Serapios/Serapios\|Serapios]] | Gangue criminosa do Canal Malta |
 
 
 ## Grupos Menores

@@ -29,6 +29,9 @@ _Pouco se sabe._
 
 ## O que se Diz
 
+> [!info] Amplamente aceito
+> Os [[notes/factions/Facções/Serapios/Serapios\|Serapios]] têm base aqui.
+
 > [!note] Pouco se sabe
 > Pouco se sabe além disso.
 

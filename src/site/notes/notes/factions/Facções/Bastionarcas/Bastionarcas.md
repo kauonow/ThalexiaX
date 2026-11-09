@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/factions/faccoes/bastionarcas/bastionarcas/","dg-note-properties":{"Name":"Bastionarcas","Type":"Facção","Parent":null,"Leaders":["[[notes/npcs/Globais/Bastionarcas/Cassian Marenor]]","[[notes/npcs/Globais/Bastionarcas/Eisen Stoinehurr]]","[[notes/npcs/Globais/Bastionarcas/Daniase Saven]]"],"Regions":["[[notes/locations/Regiões/Sul do Nhalos/Cidades/Angra do Ferro/Angra do Ferro]]","[[notes/locations/Regiões/Leste do Nhalos/Cidades/Estreito da Glória/Estreito da Glória]]","[[notes/locations/Regiões/Ermos Salgados/Ermos Salgados]]","[[notes/locations/Regiões/Ermos Salgados/Cidades/Salária/Salária]]","[[notes/locations/Pontos de Interesse/Lanternfall/Lanternfall]]","[[O Dedo]]","[[notes/locations/Pontos de Interesse/O Sineiral/O Sineiral]]","[[notes/locations/Regiões/Terrasen/Terrasen]]","[[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel]]"],"Wants":"Proteger e governar o que resta do mundo","Cover":null,"Base":"factions"}}
+{"dg-publish":true,"permalink":"/notes/factions/faccoes/bastionarcas/bastionarcas/","dg-note-properties":{"Name":"Bastionarcas","Type":"Facção","Parent":null,"Leaders":["[[notes/npcs/Globais/Bastionarcas/Cassian Marenor]]","[[notes/npcs/Globais/Bastionarcas/Eisen Stoinehurr]]","[[notes/npcs/Globais/Bastionarcas/Daniase Saven]]"],"Regions":["[[notes/locations/Regiões/Sul do Nhalos/Cidades/Angra do Ferro/Angra do Ferro]]","[[notes/locations/Regiões/Leste do Nhalos/Cidades/Estreito da Glória/Estreito da Glória]]","[[notes/locations/Regiões/Ermos Salgados/Ermos Salgados]]","[[notes/locations/Regiões/Ermos Salgados/Cidades/Salária/Salária]]","[[notes/locations/Pontos de Interesse/Lanternfall/Lanternfall]]","O Dedo","[[notes/locations/Pontos de Interesse/O Sineiral/O Sineiral]]","[[notes/locations/Regiões/Terrasen/Terrasen]]","[[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel]]"],"Wants":"Proteger e governar o que resta do mundo","Cover":null,"Base":"factions"}}
 ---
 
 
@@ -15,7 +15,7 @@
 > Tipo | Facção |
 > Facção-mãe | `=this.Parent` |
 > Rostos | [[notes/npcs/Globais/Bastionarcas/Cassian Marenor\|Cassian Marenor]],[[notes/npcs/Globais/Bastionarcas/Eisen Stoinehurr\|Eisen Stoinehurr]],[[notes/npcs/Globais/Bastionarcas/Daniase Saven\|Daniase Saven]] |
-> Regiões | [[notes/locations/Regiões/Sul do Nhalos/Cidades/Angra do Ferro/Angra do Ferro\|Angra do Ferro]],[[notes/locations/Regiões/Leste do Nhalos/Cidades/Estreito da Glória/Estreito da Glória\|Estreito da Glória]],[[notes/locations/Regiões/Ermos Salgados/Ermos Salgados\|Ermos Salgados]],[[notes/locations/Regiões/Ermos Salgados/Cidades/Salária/Salária\|Salária]],[[notes/locations/Pontos de Interesse/Lanternfall/Lanternfall\|Lanternfall]],[[O Dedo\|O Dedo]],[[notes/locations/Pontos de Interesse/O Sineiral/O Sineiral\|O Sineiral]],[[notes/locations/Regiões/Terrasen/Terrasen\|Terrasen]],[[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel\|Grande Muralha de Aurethel]] |
+> Regiões | [[notes/locations/Regiões/Sul do Nhalos/Cidades/Angra do Ferro/Angra do Ferro\|Angra do Ferro]],[[notes/locations/Regiões/Leste do Nhalos/Cidades/Estreito da Glória/Estreito da Glória\|Estreito da Glória]],[[notes/locations/Regiões/Ermos Salgados/Ermos Salgados\|Ermos Salgados]],[[notes/locations/Regiões/Ermos Salgados/Cidades/Salária/Salária\|Salária]],[[notes/locations/Pontos de Interesse/Lanternfall/Lanternfall\|Lanternfall]],O Dedo,[[notes/locations/Pontos de Interesse/O Sineiral/O Sineiral\|O Sineiral]],[[notes/locations/Regiões/Terrasen/Terrasen\|Terrasen]],[[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel\|Grande Muralha de Aurethel]] |
 > Dizem que Querem | Proteger e governar o que resta do mundo |
 
 # Bastionarcas
@@ -54,8 +54,6 @@ Disputam [[notes/locations/Regiões/Norte do Nhalos/Cidades/Valestra/Valestra\|V
 ## Rostos (NPCs)
 
 - [[notes/npcs/Globais/Bastionarcas/Cassian Marenor\|Cassian Marenor]]
-- [[notes/npcs/Globais/Bastionarcas/Daniase Saven\|Daniase Saven]]
-- [[notes/npcs/Globais/Bastionarcas/Eisen Stoinehurr\|Eisen Stoinehurr]]
 
 { .block-language-dataview}
 

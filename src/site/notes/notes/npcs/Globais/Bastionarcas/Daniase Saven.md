@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/npcs/globais/bastionarcas/daniase-saven/","dg-note-properties":{"AssociatedGroup":"[[notes/factions/Facções/Bastionarcas/Bastionarcas]]","Gender":"Feminino","Race":"[[Dragonborn]]","Age":null,"Class":null,"Character-Role":"Conselheira dos Bastionarcas","Location":"[[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel]]","NoteIcon":"npc","Cover":null,"Scope":"Global","Base":"npcs"}}
+{"dg-publish":true,"permalink":"/notes/npcs/globais/bastionarcas/daniase-saven/","dg-note-properties":{"AssociatedGroup":"[[notes/factions/Facções/Bastionarcas/Subfacções/Tevanarcas (subfacção)/Tevanarcas (subfacção)]]","Gender":"Feminino","Race":"[[Dragonborn]]","Age":null,"Class":null,"Character-Role":"Conselheira dos Bastionarcas, mais ligada aos Tevanarcas","Location":"[[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel]]","NoteIcon":"npc","Cover":null,"Scope":"Global","Base":"npcs"}}
 ---
 
 
@@ -13,7 +13,7 @@
 > Type |  Stat |
 > ---|---|
 > Home | [[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel\|Grande Muralha de Aurethel]] |
-> Group | [[notes/factions/Facções/Bastionarcas/Bastionarcas\|Bastionarcas]] |
+> Group | [[notes/factions/Facções/Bastionarcas/Subfacções/Tevanarcas (subfacção)/Tevanarcas (subfacção)\|Tevanarcas (subfacção)]] |
 > Sex | Feminino |
 > Race | [[Dragonborn\|Dragonborn]] |
 > Age | `=this.age` |
@@ -21,13 +21,13 @@
 > Type |  Stat |
 > ---|---|
 > Class | `=this.class` |
-> Character Role | Conselheira dos Bastionarcas |
+> Character Role | Conselheira dos Bastionarcas, mais ligada aos Tevanarcas |
 
 # Daniase Saven
 
 ## Profile
 
-Conselheira dos [[notes/factions/Facções/Bastionarcas/Bastionarcas\|Bastionarcas]]
+Draconata, conselheira dos [[notes/factions/Facções/Bastionarcas/Bastionarcas\|Bastionarcas]], mais ligada aos [[notes/factions/Facções/Bastionarcas/Subfacções/Tevanarcas (subfacção)/Tevanarcas (subfacção)\|Tevanarcas (subfacção)]]
 
 ## Aparência
 
@@ -35,7 +35,7 @@ _Pouco se sabe._
 
 ## O que Todos Sabem
 
-Faz parte do conselho que governa a Muralha.
+Faz parte do conselho que governa a Muralha, mais ao lado dos [[notes/factions/Facções/Bastionarcas/Subfacções/Tevanarcas (subfacção)/Tevanarcas (subfacção)\|Tevanarcas (subfacção)]].
 
 ## O que se Diz
 

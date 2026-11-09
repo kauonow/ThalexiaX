@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/factions/faccoes/bastionarcas/subfaccoes/argonautas-subfaccao/argonautas-subfaccao/","dg-note-properties":{"Name":"Argonautas (subfacção)","Type":"Subfacção","Parent":"[[notes/factions/Facções/Bastionarcas/Bastionarcas]]","Leaders":["[[notes/npcs/Globais/Bastionarcas/Cassian Marenor]]"],"Regions":["[[notes/locations/Regiões/Sul do Nhalos/Cidades/Angra do Ferro/Angra do Ferro]]"],"Wants":"Explorar o fundo do mar","Cover":null,"Base":"factions"}}
+{"dg-publish":true,"permalink":"/notes/factions/faccoes/bastionarcas/subfaccoes/argonautas-subfaccao/argonautas-subfaccao/","dg-note-properties":{"Name":"Argonautas (subfacção)","Type":"Subfacção","Parent":"[[notes/factions/Facções/Bastionarcas/Bastionarcas]]","Leaders":["[[notes/npcs/Globais/Bastionarcas/Cassian Marenor]]","[[notes/npcs/Globais/Bastionarcas/Eisen Stoinehurr]]"],"Regions":["[[notes/locations/Regiões/Sul do Nhalos/Cidades/Angra do Ferro/Angra do Ferro]]"],"Wants":"Explorar o fundo do mar","Cover":null,"Base":"factions"}}
 ---
 
 
@@ -14,7 +14,7 @@
 > ---|---|
 > Tipo | Subfacção |
 > Facção-mãe | [[notes/factions/Facções/Bastionarcas/Bastionarcas\|Bastionarcas]] |
-> Rostos | [[notes/npcs/Globais/Bastionarcas/Cassian Marenor\|Cassian Marenor]] |
+> Rostos | [[notes/npcs/Globais/Bastionarcas/Cassian Marenor\|Cassian Marenor]],[[notes/npcs/Globais/Bastionarcas/Eisen Stoinehurr\|Eisen Stoinehurr]] |
 > Regiões | [[notes/locations/Regiões/Sul do Nhalos/Cidades/Angra do Ferro/Angra do Ferro\|Angra do Ferro]] |
 > Dizem que Querem | Explorar o fundo do mar |
 
@@ -34,6 +34,9 @@ Mergulhadores a serviço dos [[notes/factions/Facções/Bastionarcas/Bastionarca
 > [!success] Comprovado
 > Existem e mergulham a serviço dos Bastionarcas.
 
+> [!info] Amplamente aceito
+> Seus líderes são [[notes/npcs/Globais/Bastionarcas/Cassian Marenor\|Cassian Marenor]] e [[notes/npcs/Globais/Bastionarcas/Eisen Stoinehurr\|Eisen Stoinehurr]].
+
 ## O que se Diz
 
 > [!question] Rumor
@@ -44,6 +47,7 @@ Mergulhadores a serviço dos [[notes/factions/Facções/Bastionarcas/Bastionarca
 
 ## Rostos (NPCs)
 
+- [[notes/npcs/Globais/Bastionarcas/Eisen Stoinehurr\|Eisen Stoinehurr]]
 
 { .block-language-dataview}
 
