@@ -31,7 +31,7 @@ Draconata, conselheira dos [[notes/factions/Facções/Bastionarcas/Bastionarcas\
 
 ## Aparência
 
-_Pouco se sabe._
+Draconata de escamas azul-claras. Usa uma meia-armadura de placas e carrega uma espada.
 
 ## O que Todos Sabem
 

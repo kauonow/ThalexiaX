@@ -31,7 +31,7 @@ Anão, conselheiro dos [[notes/factions/Facções/Bastionarcas/Bastionarcas\|Bas
 
 ## Aparência
 
-_Pouco se sabe._
+Anão de barba ruiva e longa, que cobre a boca. Usa um elmo e uma armadura de metal por baixo de uma capa azul-escura.
 
 ## O que Todos Sabem
 

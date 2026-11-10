@@ -37,6 +37,7 @@ _Pouco se sabe._
 
 ## NPCs Aqui
 
+- [[notes/npcs/Regionais/Canal Malta/Red Belle\|Red Belle]]
 
 { .block-language-dataview}
 

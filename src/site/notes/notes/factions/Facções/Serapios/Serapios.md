@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/factions/faccoes/serapios/serapios/","dg-note-properties":{"Name":"Serapios","Type":"Facção","Parent":null,"Leaders":[],"Regions":["[[notes/locations/Mares/Canal Malta/Canal Malta]]"],"Wants":"Pouco se sabe","Cover":null,"Base":"factions"}}
+{"dg-publish":true,"permalink":"/notes/factions/faccoes/serapios/serapios/","dg-note-properties":{"Name":"Serapios","Type":"Facção","Parent":null,"Leaders":["[[notes/npcs/Regionais/Canal Malta/Red Belle]]"],"Regions":["[[notes/locations/Mares/Canal Malta/Canal Malta]]"],"Wants":"Pouco se sabe","Cover":null,"Base":"factions"}}
 ---
 
 
@@ -12,7 +12,7 @@
 > ---|---|
 > Tipo | Facção |
 > Facção-mãe | `=this.Parent` |
-> Rostos |  |
+> Rostos | [[notes/npcs/Regionais/Canal Malta/Red Belle\|Red Belle]] |
 > Regiões | [[notes/locations/Mares/Canal Malta/Canal Malta\|Canal Malta]] |
 > Dizem que Querem | Pouco se sabe |
 
@@ -38,6 +38,9 @@ _Pouco se sabe._
 
 > [!question] Rumor
 > Dizem que não perdoam dívida.
+
+> [!question] Rumor
+> Dizem que [[notes/npcs/Regionais/Canal Malta/Red Belle\|Red Belle]] é a sua líder
 
 > [!note] Pouco se sabe
 > Quem manda e quantos são.

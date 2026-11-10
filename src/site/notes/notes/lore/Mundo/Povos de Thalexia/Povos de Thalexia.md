@@ -28,7 +28,8 @@ Há muitos povos, mas não todos. Os humanos são numerosos, e as raças comuns 
 - [[notes/lore/Mundo/Povos de Thalexia/Espécies/Aarakocra e Povos-Pássaro\|Aarakocra e Povos-Pássaro]]: entre os Limiatrofes, com a lenda das ilhas no céu.
 - [[notes/lore/Mundo/Povos de Thalexia/Espécies/Aasimar e Tieflings\|Aasimar e Tieflings]]: filhos dos deuses e linhagem infernal, raros.
 - [[notes/lore/Mundo/Povos de Thalexia/Espécies/Genasi\|Genasi]]: raro encontrar, quase todos fazem parte dos Vaelari.
+- [[notes/lore/Mundo/Povos de Thalexia/Espécies/Povos Anfíbios e Répteis\|Povos Anfíbios e Répteis]]: entre as sociedades, anfíbios na umidade e reptéis divididos.
 
-## Raças Fora da Lista
+## Raças Diferentes
 
-Pergunte ao Mestre se pode usar outra raça (por exemplo, sátiro, aarakocra, orc ou forjado).
+Pergunte ao Mestre se pode usar outra raça (por exemplo, sátiro, orc, aasimar...).
