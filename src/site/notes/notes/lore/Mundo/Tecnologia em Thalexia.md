@@ -13,6 +13,9 @@
 > [!success] Comprovado
 > Existem relógios, imprensa, telescópios e canhões de navio. Mosquetes e pistolas existem como armas antigas.
 
+> [!success] Comprovado
+> Cidades contam com diversos tipos de sistemas de proteção e defesa. Desde construtos de pedra e metal até forjados e sentinelas mágicas.
+
 > [!info] Amplamente aceito
 > A luz arcana só é comum em cidades ricas.
 
