@@ -46,5 +46,8 @@ Cabelo longo, liso e prateado, olhos azuis luminosos e manchas azul brilhante no
 > [!question] Rumor
 > Dizem que existe uma recompensa valiosa pela sua cabeça
 
+> [!question] Rumor
+> Dizem que foi acolhida e criada por uma gangue do lendário [[notes/npcs/Globais/Piratas/Serapio Vell\|Serapio Vell]].
+
 > [!note] Pouco se sabe
 > De onde veio e o que são as manchas azuis.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/factions/faccoes/ganchos-de-hierro/ganchos-de-hierro/","dg-note-properties":{"Name":"Ganchos de Hierro","Type":"Facção","Parent":null,"Leaders":["[[notes/npcs/Regionais/Canal Malta/Solano, o Muro]]"],"Regions":["[[notes/locations/Regiões/Ilhas de Hierro/Ilhas de Hierro]]"],"Wants":"Depende de quem conta: libertar o povo ou semear o caos","Cover":null,"Base":"factions"}}
+{"dg-publish":true,"permalink":"/notes/factions/faccoes/ganchos-de-hierro/ganchos-de-hierro/","dg-note-properties":{"Name":"Ganchos de Hierro","Type":"Facção","Parent":null,"Leaders":["[[notes/npcs/Regionais/Ilhas de Hierro/Solano, o Muro]]"],"Regions":["[[notes/locations/Regiões/Ilhas de Hierro/Ilhas de Hierro]]"],"Wants":"Depende de quem conta: libertar o povo ou semear o caos","Cover":null,"Base":"factions"}}
 ---
 
 
@@ -14,7 +14,7 @@
 > ---|---|
 > Tipo | Facção |
 > Facção-mãe | `=this.Parent` |
-> Rostos | [[notes/npcs/Regionais/Canal Malta/Solano, o Muro\|Solano, o Muro]] |
+> Rostos | [[notes/npcs/Regionais/Ilhas de Hierro/Solano, o Muro\|Solano, o Muro]] |
 > Regiões | [[notes/locations/Regiões/Ilhas de Hierro/Ilhas de Hierro\|Ilhas de Hierro]] |
 > Dizem que Querem | Depende de quem conta: libertar o povo ou semear o caos |
 
@@ -22,7 +22,7 @@
 
 ## Quem São
 
-Guilda de piratas formada majoritariamente por ex-militares dos [[notes/factions/Facções/Bastionarcas/Bastionarcas\|Bastionarcas]] que se rebelaram. Navegam os mares do sudeste, entre o [[notes/locations/Regiões/Leste do Nhalos/Cidades/Estreito da Glória/Estreito da Glória\|Estreito da Glória]] e os [[notes/locations/Regiões/Ermos Salgados/Ermos Salgados\|Ermos Salgados]]. Seu líder é o capitão-geral [[notes/npcs/Regionais/Canal Malta/Solano, o Muro\|Solano, o Muro]].
+Guilda de piratas formada majoritariamente por ex-militares dos [[notes/factions/Facções/Bastionarcas/Bastionarcas\|Bastionarcas]] que se rebelaram. Navegam os mares do sudeste, entre o [[notes/locations/Regiões/Leste do Nhalos/Cidades/Estreito da Glória/Estreito da Glória\|Estreito da Glória]] e os [[notes/locations/Regiões/Ermos Salgados/Ermos Salgados\|Ermos Salgados]]. Seu líder é o capitão-geral [[notes/npcs/Regionais/Ilhas de Hierro/Solano, o Muro\|Solano, o Muro]].
 
 ## O que Dizem que Querem
 
@@ -53,7 +53,7 @@ Depende de quem conta.
 
 ## Rostos (NPCs)
 
-- [[notes/npcs/Regionais/Canal Malta/Solano, o Muro\|Solano, o Muro]]
+- [[notes/npcs/Regionais/Ilhas de Hierro/Solano, o Muro\|Solano, o Muro]]
 
 { .block-language-dataview}
 

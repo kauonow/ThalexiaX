@@ -11,6 +11,12 @@
 
 Aqui ficam os documentos que seus personagens **encontraram**: cartas, diários, livros, desenhos, anotações. Cada um aparece só depois que o grupo o encontra no jogo, e fica na pasta do ato em que isso aconteceu.
 
+## Ato 1
+
+| Documento | Tipo | Onde se acha |
+|---|---|---|
+| [[notes/handouts/Ato 1/Convite para o Funeral\|Convite para o Funeral]] | Carta | Recebida por cada um de vocês |
+
 ## Como as Pastas Funcionam
 
 ```

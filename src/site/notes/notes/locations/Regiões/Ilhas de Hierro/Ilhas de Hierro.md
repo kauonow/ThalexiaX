@@ -34,7 +34,7 @@ Ilhas entre o [[notes/locations/Regi√µes/Leste do Nhalos/Cidades/Estreito da Gl√
 
 ## NPCs Aqui
 
-- [[notes/npcs/Regionais/Canal Malta/Solano, o Muro\|Solano, o Muro]]
+- [[notes/npcs/Regionais/Ilhas de Hierro/Solano, o Muro\|Solano, o Muro]]
 
 { .block-language-dataview}
 

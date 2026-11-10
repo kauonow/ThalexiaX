@@ -11,6 +11,52 @@
 
 Pessoas que o povo do mundo todo conhece: líderes, conselheiros e figuras de lendas. Cada nota mostra o que todos sabem e o que se diz dessa pessoa.
 
+## Globais
+
+Quase o mundo todo conhece. Separados por facção.
+
+### Bastionarcas
+
+| NPC | Quem é | Facção | Local |
+|---|---|---|---|
+| [[notes/npcs/Globais/Bastionarcas/Cassian Marenor\|Cassian Marenor]] | Regente interino da Grande Muralha | [[notes/factions/Facções/Bastionarcas/Bastionarcas\|Bastionarcas]] | [[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel\|Grande Muralha de Aurethel]] |
+| [[notes/npcs/Globais/Bastionarcas/Daniase Saven\|Daniase Saven]] | Conselheira dos Bastionarcas, mais ligada aos Tevanarcas | [[notes/factions/Facções/Bastionarcas/Subfacções/Tevanarcas (subfacção)/Tevanarcas (subfacção)\|Tevanarcas (subfacção)]] | [[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel\|Grande Muralha de Aurethel]] |
+| [[notes/npcs/Globais/Bastionarcas/Eisen Stoinehurr\|Eisen Stoinehurr]] | Anão conselheiro dos Bastionarcas, possui grande influência nos Argonautas (subfacção) | [[notes/factions/Facções/Bastionarcas/Subfacções/Argonautas (subfacção)/Argonautas (subfacção)\|Argonautas (subfacção)]] | [[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel\|Grande Muralha de Aurethel]] |
+
+### Limiatrofes
+
+| NPC | Quem é | Facção | Local |
+|---|---|---|---|
+| [[notes/npcs/Globais/Limiatrofes/Aizal Kleeck\|Aizal Kleeck]] | Clériga da Luz, líder dos Liminantes | [[notes/factions/Facções/Limiatrofes/Subfacções/Liminantes (subfacção)/Liminantes (subfacção)\|Liminantes (subfacção)]] | [[notes/locations/Regiões/Ter'sen-Ly/Ter'sen-Ly\|Ter'sen-Ly]] |
+| [[notes/npcs/Globais/Limiatrofes/Eldamar Sadida\|Eldamar Sadida]] | Druida de Sarut, líder dos Sadidas | [[notes/factions/Facções/Limiatrofes/Subfacções/Sadidas (subfacção)/Sadidas (subfacção)\|Sadidas (subfacção)]] | [[notes/locations/Regiões/Lumina/Cidades/Garten/Garten\|Garten]] |
+| [[notes/npcs/Globais/Limiatrofes/Salorin Tiessonor\|Salorin Tiessonor]] | Mago e líder dos Limiatrofes | [[notes/factions/Facções/Limiatrofes/Limiatrofes\|Limiatrofes]] | [[notes/locations/Pontos de Interesse/A Torre/A Torre\|A Torre]] |
+
+### Piratas
+
+| NPC | Quem é | Facção | Local |
+|---|---|---|---|
+| [[notes/npcs/Globais/Piratas/Nemo\|Nemo]] | Pirata temido, a Maldição de Thalexia | — | — |
+| [[notes/npcs/Globais/Piratas/Serapio Vell\|Serapio Vell]] | Lendário pirata, símbolo de liberdade entre os piratas | — | — |
+
+## Regionais
+
+Regiões conhecem, separados pela região:
+
+| NPC | Quem é | Facção | Local |
+|---|---|---|---|
+| [[notes/npcs/Regionais/Canal Malta/Red Belle\|Red Belle]] | Dizem que comanda os Serapios | — | [[notes/locations/Mares/Canal Malta/Canal Malta\|Canal Malta]] |
+| [[notes/npcs/Regionais/Ilhas de Hierro/Solano, o Muro\|Solano, o Muro]] | Capitão-geral dos Ganchos de Hierro | [[notes/factions/Facções/Ganchos de Hierro/Ganchos de Hierro\|Ganchos de Hierro]] | [[notes/locations/Regiões/Ilhas de Hierro/Ilhas de Hierro\|Ilhas de Hierro]] |
+
+## Locais
+
+Normalmente são conhecidos por regiões menores e locais, separados pelo local:
+
+### Saruna
+
+| NPC | Quem é | Facção |
+|---|---|---|
+| [[notes/npcs/Locais/Saruna/Dorian Vane\|Dorian Vane]] | O Turrão | — |
+
 ## Como as Pastas Funcionam
 
 Os NPCs se separam por **escopo**, ou seja, por quem os conhece (campo `Scope`):

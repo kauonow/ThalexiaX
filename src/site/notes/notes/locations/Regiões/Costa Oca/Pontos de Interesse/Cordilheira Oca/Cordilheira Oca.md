@@ -33,6 +33,9 @@ Sem controle específico.
 
 ## O que se Diz
 
+> [!success] Comprovado
+> A cordilheira tem um pico.
+
 > [!note] Pouco se sabe
 > Pouco se sabe além disso.
 

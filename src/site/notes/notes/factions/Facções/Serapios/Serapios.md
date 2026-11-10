@@ -42,6 +42,9 @@ _Pouco se sabe._
 > [!question] Rumor
 > Dizem que [[notes/npcs/Regionais/Canal Malta/Red Belle\|Red Belle]] é a sua líder
 
+> [!question] Rumor
+> Dizem que o nome da gangue vem do lendário pirata [[notes/npcs/Globais/Piratas/Serapio Vell\|Serapio Vell]].
+
 > [!note] Pouco se sabe
 > Quem manda e quantos são.
 

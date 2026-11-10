@@ -8,7 +8,7 @@
 # Forjados
 
 > [!success] Comprovado
-> Existem forjados, feitos para a guerra. Muitos continuam por aí depois das guerras. Um deles é [[notes/npcs/Regionais/Canal Malta/Solano, o Muro\|Solano, o Muro]].
+> Existem forjados, feitos para a guerra. Muitos continuam por aí depois das guerras. Um deles é [[notes/npcs/Regionais/Ilhas de Hierro/Solano, o Muro\|Solano, o Muro]].
 
 > [!info] Amplamente aceito
 > Os forjados lutaram em duas guerras recentes: a [[notes/lore/História/Guerra do Ferro\|Guerra do Ferro]], há cerca de 80 anos, e a [[notes/lore/História/Guerra das Calotas\|Guerra das Calotas]], há cerca de 50.

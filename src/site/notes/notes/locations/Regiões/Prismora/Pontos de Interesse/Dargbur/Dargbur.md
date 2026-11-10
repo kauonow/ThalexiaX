@@ -7,8 +7,8 @@
 
 > [!infobox]
 > # Dargbur
-> ![ImagePlaceholder.png\|cover hsmall](/img/user/attachments/ImagePlaceholder.png)
-> [Show To Players](/img/user/attachments/ImagePlaceholder.png)
+> ![attachments/Dargbur.jpg\|cover hsmall](/img/user/attachments/Dargbur.jpg)
+> [Show To Players](/img/user/attachments/Dargbur.jpg)
 > ###### Visão Geral
 > Type |  Stat |
 > ---|---|

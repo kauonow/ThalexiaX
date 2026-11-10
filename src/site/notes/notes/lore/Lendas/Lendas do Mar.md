@@ -24,6 +24,16 @@ Histórias de marinheiros, pescadores e mergulhadores. Algumas podem ser verdade
 > [!quote] Lenda
 > Dizem que ninguém jamais tocou o fundo do [[notes/locations/Mares/Nhalos/Nhalos\|Nhalos]].
 
+## O Mar de Todos os Peixes
+
+> [!quote] Lenda
+> Dizem que existe um lugar no mar onde é possível encontrar todas as espécies de peixes. Ver [[notes/lore/Lendas/A Lenda do Mar de Todos os Peixes\|A Lenda do Mar de Todos os Peixes]].
+
+## Os Homens-Peixe
+
+> [!quote] Lenda
+> Dizem que existem homens-peixe que comem carne humana. Ver [[notes/lore/Lendas/A Lenda dos Homens-Peixe\|A Lenda dos Homens-Peixe]].
+
 ## O Povo do Fundo
 
 > [!question] Rumor
