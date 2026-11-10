@@ -1,0 +1,463 @@
+{
+  "/": [
+    "notes",
+    "admin",
+    "templates"
+  ],
+  "/notes": [
+    "deities",
+    "factions",
+    "handouts",
+    "locations",
+    "lore",
+    "maps",
+    "npcs",
+    "rules",
+    "Sinopse",
+    "Thalexia - Início"
+  ],
+  "/notes/deities": [
+    "00 - Panteão",
+    "Chauntea",
+    "Gond",
+    "Lathander",
+    "Selune",
+    "Umberlee"
+  ],
+  "/notes/factions": [
+    "Facções",
+    "00 - Facções"
+  ],
+  "/notes/factions/Facções": [
+    "Bastionarcas",
+    "Ctonianos",
+    "Ganchos de Hierro",
+    "Limiatrofes",
+    "Serapios",
+    "Vaelari",
+    "Vitaegis"
+  ],
+  "/notes/factions/Facções/Bastionarcas": [
+    "Grupos Menores",
+    "Subfacções",
+    "Bastionarcas"
+  ],
+  "/notes/factions/Facções/Bastionarcas/Grupos Menores": [
+    "Vardac"
+  ],
+  "/notes/factions/Facções/Bastionarcas/Grupos Menores/Vardac": [
+    "Vardac"
+  ],
+  "/notes/factions/Facções/Bastionarcas/Subfacções": [
+    "Argonautas (subfacção)",
+    "Tevanarcas (subfacção)"
+  ],
+  "/notes/factions/Facções/Bastionarcas/Subfacções/Argonautas (subfacção)": [
+    "Argonautas (subfacção)"
+  ],
+  "/notes/factions/Facções/Bastionarcas/Subfacções/Tevanarcas (subfacção)": [
+    "Tevanarcas (subfacção)"
+  ],
+  "/notes/factions/Facções/Ctonianos": [
+    "Ctonianos"
+  ],
+  "/notes/factions/Facções/Ganchos de Hierro": [
+    "Ganchos de Hierro"
+  ],
+  "/notes/factions/Facções/Limiatrofes": [
+    "Subfacções",
+    "Limiatrofes"
+  ],
+  "/notes/factions/Facções/Limiatrofes/Subfacções": [
+    "Liminantes (subfacção)",
+    "Sadidas (subfacção)"
+  ],
+  "/notes/factions/Facções/Limiatrofes/Subfacções/Liminantes (subfacção)": [
+    "Liminantes (subfacção)"
+  ],
+  "/notes/factions/Facções/Limiatrofes/Subfacções/Sadidas (subfacção)": [
+    "Sadidas (subfacção)"
+  ],
+  "/notes/factions/Facções/Serapios": [
+    "Serapios"
+  ],
+  "/notes/factions/Facções/Vaelari": [
+    "Vaelari"
+  ],
+  "/notes/factions/Facções/Vitaegis": [
+    "Vitaegis"
+  ],
+  "/notes/handouts": [
+    "Ato 1",
+    "00 - Documentos"
+  ],
+  "/notes/handouts/Ato 1": [
+    "Convite para o Funeral"
+  ],
+  "/notes/locations": [
+    "Mares",
+    "Pontos de Interesse",
+    "Regiões",
+    "00 - Locais"
+  ],
+  "/notes/locations/Mares": [
+    "Canal Malta",
+    "Celteria",
+    "Nhalos",
+    "Salteris",
+    "Semeris",
+    "Velmaris",
+    "Void Sea"
+  ],
+  "/notes/locations/Mares/Canal Malta": [
+    "Canal Malta"
+  ],
+  "/notes/locations/Mares/Celteria": [
+    "Celteria"
+  ],
+  "/notes/locations/Mares/Nhalos": [
+    "Nhalos"
+  ],
+  "/notes/locations/Mares/Salteris": [
+    "Salteris"
+  ],
+  "/notes/locations/Mares/Semeris": [
+    "Semeris"
+  ],
+  "/notes/locations/Mares/Velmaris": [
+    "Velmaris"
+  ],
+  "/notes/locations/Mares/Void Sea": [
+    "Void Sea"
+  ],
+  "/notes/locations/Pontos de Interesse": [
+    "A Torre",
+    "Lanternfall",
+    "O Gullet",
+    "O Sineiral"
+  ],
+  "/notes/locations/Pontos de Interesse/A Torre": [
+    "A Torre"
+  ],
+  "/notes/locations/Pontos de Interesse/Lanternfall": [
+    "Lanternfall"
+  ],
+  "/notes/locations/Pontos de Interesse/O Gullet": [
+    "O Gullet"
+  ],
+  "/notes/locations/Pontos de Interesse/O Sineiral": [
+    "O Sineiral"
+  ],
+  "/notes/locations/Regiões": [
+    "Costa Oca",
+    "Ctheri",
+    "Ermos Salgados",
+    "Ermos Salgados do Sul",
+    "Ilhas de Hierro",
+    "Leste do Nhalos",
+    "Lumina",
+    "Norte do Nhalos",
+    "Ostrel",
+    "Prismora",
+    "Prismora do Norte",
+    "Senzui",
+    "Sul do Nhalos",
+    "Ter'sen-Ly",
+    "Terrasen"
+  ],
+  "/notes/locations/Regiões/Costa Oca": [
+    "Cidades",
+    "Pontos de Interesse",
+    "Costa Oca"
+  ],
+  "/notes/locations/Regiões/Costa Oca/Cidades": [
+    "Zênite"
+  ],
+  "/notes/locations/Regiões/Costa Oca/Cidades/Zênite": [
+    "Zênite"
+  ],
+  "/notes/locations/Regiões/Costa Oca/Pontos de Interesse": [
+    "Cordilheira Oca"
+  ],
+  "/notes/locations/Regiões/Costa Oca/Pontos de Interesse/Cordilheira Oca": [
+    "Cordilheira Oca"
+  ],
+  "/notes/locations/Regiões/Ctheri": [
+    "Cidades",
+    "Ctheri"
+  ],
+  "/notes/locations/Regiões/Ctheri/Cidades": [
+    "Abyss'ol"
+  ],
+  "/notes/locations/Regiões/Ctheri/Cidades/Abyss'ol": [
+    "Abyss'ol"
+  ],
+  "/notes/locations/Regiões/Ermos Salgados": [
+    "Cidades",
+    "Ermos Salgados"
+  ],
+  "/notes/locations/Regiões/Ermos Salgados/Cidades": [
+    "Salária"
+  ],
+  "/notes/locations/Regiões/Ermos Salgados/Cidades/Salária": [
+    "Salária"
+  ],
+  "/notes/locations/Regiões/Ermos Salgados do Sul": [
+    "Ermos Salgados do Sul"
+  ],
+  "/notes/locations/Regiões/Ilhas de Hierro": [
+    "Cidades",
+    "Ilhas de Hierro"
+  ],
+  "/notes/locations/Regiões/Ilhas de Hierro/Cidades": [
+    "Redenção"
+  ],
+  "/notes/locations/Regiões/Ilhas de Hierro/Cidades/Redenção": [
+    "Redenção"
+  ],
+  "/notes/locations/Regiões/Leste do Nhalos": [
+    "Cidades",
+    "Pontos de Interesse",
+    "Leste do Nhalos"
+  ],
+  "/notes/locations/Regiões/Leste do Nhalos/Cidades": [
+    "Estreito da Glória"
+  ],
+  "/notes/locations/Regiões/Leste do Nhalos/Cidades/Estreito da Glória": [
+    "Estreito da Glória"
+  ],
+  "/notes/locations/Regiões/Leste do Nhalos/Pontos de Interesse": [
+    "Recife Luminoso"
+  ],
+  "/notes/locations/Regiões/Leste do Nhalos/Pontos de Interesse/Recife Luminoso": [
+    "Recife Luminoso"
+  ],
+  "/notes/locations/Regiões/Lumina": [
+    "Cidades",
+    "Regiões",
+    "Lumina"
+  ],
+  "/notes/locations/Regiões/Lumina/Cidades": [
+    "Garten"
+  ],
+  "/notes/locations/Regiões/Lumina/Cidades/Garten": [
+    "Pontos de Interesse",
+    "Garten"
+  ],
+  "/notes/locations/Regiões/Lumina/Cidades/Garten/Pontos de Interesse": [
+    "Sarut"
+  ],
+  "/notes/locations/Regiões/Lumina/Cidades/Garten/Pontos de Interesse/Sarut": [
+    "Sarut"
+  ],
+  "/notes/locations/Regiões/Lumina/Regiões": [
+    "Ecos da Meia-Noite"
+  ],
+  "/notes/locations/Regiões/Lumina/Regiões/Ecos da Meia-Noite": [
+    "Ecos da Meia-Noite"
+  ],
+  "/notes/locations/Regiões/Norte do Nhalos": [
+    "Cidades",
+    "Norte do Nhalos"
+  ],
+  "/notes/locations/Regiões/Norte do Nhalos/Cidades": [
+    "Valestra"
+  ],
+  "/notes/locations/Regiões/Norte do Nhalos/Cidades/Valestra": [
+    "Valestra"
+  ],
+  "/notes/locations/Regiões/Ostrel": [
+    "Ostrel"
+  ],
+  "/notes/locations/Regiões/Prismora": [
+    "Pontos de Interesse",
+    "Prismora"
+  ],
+  "/notes/locations/Regiões/Prismora/Pontos de Interesse": [
+    "Dargbur"
+  ],
+  "/notes/locations/Regiões/Prismora/Pontos de Interesse/Dargbur": [
+    "Dargbur"
+  ],
+  "/notes/locations/Regiões/Prismora do Norte": [
+    "Prismora do Norte"
+  ],
+  "/notes/locations/Regiões/Senzui": [
+    "Senzui"
+  ],
+  "/notes/locations/Regiões/Sul do Nhalos": [
+    "Cidades",
+    "Sul do Nhalos"
+  ],
+  "/notes/locations/Regiões/Sul do Nhalos/Cidades": [
+    "Angra do Ferro",
+    "Saruna"
+  ],
+  "/notes/locations/Regiões/Sul do Nhalos/Cidades/Angra do Ferro": [
+    "Angra do Ferro"
+  ],
+  "/notes/locations/Regiões/Sul do Nhalos/Cidades/Saruna": [
+    "Pontos de Interesse",
+    "Saruna"
+  ],
+  "/notes/locations/Regiões/Sul do Nhalos/Cidades/Saruna/Pontos de Interesse": [
+    "Mansão de Dorian Vane"
+  ],
+  "/notes/locations/Regiões/Sul do Nhalos/Cidades/Saruna/Pontos de Interesse/Mansão de Dorian Vane": [
+    "Mansão de Dorian Vane"
+  ],
+  "/notes/locations/Regiões/Ter'sen-Ly": [
+    "Ter'sen-Ly"
+  ],
+  "/notes/locations/Regiões/Terrasen": [
+    "Cidades",
+    "Pontos de Interesse",
+    "Terrasen"
+  ],
+  "/notes/locations/Regiões/Terrasen/Cidades": [
+    "Crisolignis"
+  ],
+  "/notes/locations/Regiões/Terrasen/Cidades/Crisolignis": [
+    "Crisolignis"
+  ],
+  "/notes/locations/Regiões/Terrasen/Pontos de Interesse": [
+    "Grande Muralha de Aurethel"
+  ],
+  "/notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel": [
+    "Grande Muralha de Aurethel"
+  ],
+  "/notes/lore": [
+    "Crenças",
+    "Fenômenos",
+    "História",
+    "Lendas",
+    "Mundo",
+    "00 - Lore"
+  ],
+  "/notes/lore/Crenças": [
+    "A Triagem",
+    "O que o Povo Acredita"
+  ],
+  "/notes/lore/Fenômenos": [
+    "A Lua de Sangue",
+    "O Mundo Afundando"
+  ],
+  "/notes/lore/História": [
+    "A Grande Guerra",
+    "Cronologia",
+    "Guerra das Calotas",
+    "Guerra do Ferro",
+    "Heptarquia de Aurethel"
+  ],
+  "/notes/lore/Lendas": [
+    "A Lenda da Árvore da Vida",
+    "A Lenda Da Forja Perdida",
+    "A Lenda das Ilhas do Céu",
+    "A Lenda do Muro",
+    "A Lenda do Vento Calado",
+    "A Lenda dos Dragões",
+    "Lendas do Mar",
+    "O Outro Lado da Muralha",
+    "O Silêncio dos Deuses",
+    "Os Ctonianos",
+    "Os Túneis Profundos"
+  ],
+  "/notes/lore/Mundo": [
+    "Povos de Thalexia",
+    "Almas e Fantasmas",
+    "Astrologia",
+    "Clima e Estações",
+    "Climas Notáveis",
+    "Criaturas de Thalexia",
+    "Demografia de Thalexia",
+    "Magia em Thalexia",
+    "O Céu de Thalexia",
+    "Planos e Outros Mundos",
+    "Tecnologia em Thalexia",
+    "Thalexia"
+  ],
+  "/notes/lore/Mundo/Povos de Thalexia": [
+    "Espécies",
+    "Povos de Thalexia"
+  ],
+  "/notes/lore/Mundo/Povos de Thalexia/Espécies": [
+    "Aarakocra e Povos-Pássaro",
+    "Aasimar e Tieflings",
+    "Anões",
+    "Draconatos",
+    "Drow e Duergar",
+    "Elfos",
+    "Forjados",
+    "Genasi",
+    "Gigantes e Goliaths",
+    "Gnomos",
+    "Goblins",
+    "Halflings",
+    "Humanos",
+    "Kobolds",
+    "Orcs e Meio-Orcs",
+    "Povos Anfíbios e Répteis"
+  ],
+  "/notes/maps": [
+    "Mapa de Thalexia"
+  ],
+  "/notes/npcs": [
+    "Globais",
+    "Locais",
+    "Regionais",
+    "00 - NPCs"
+  ],
+  "/notes/npcs/Globais": [
+    "Bastionarcas",
+    "Limiatrofes"
+  ],
+  "/notes/npcs/Globais/Bastionarcas": [
+    "Cassian Marenor",
+    "Daniase Saven",
+    "Eisen Stoinehurr"
+  ],
+  "/notes/npcs/Globais/Limiatrofes": [
+    "Aizal Kleeck",
+    "Eldamar Sadida",
+    "Salorin Tiessonor"
+  ],
+  "/notes/npcs/Locais": [
+    "Saruna"
+  ],
+  "/notes/npcs/Locais/Saruna": [
+    "Dorian Vane"
+  ],
+  "/notes/npcs/Regionais": [
+    "Canal Malta"
+  ],
+  "/notes/npcs/Regionais/Canal Malta": [
+    "Red Belle",
+    "Solano, o Muro"
+  ],
+  "/notes/rules": [
+    "00 - Regras de Mundo",
+    "A Travessia",
+    "Criando seu Personagem",
+    "Marcos e Treinamento",
+    "O Duelo"
+  ],
+  "/admin": [
+    "Estrutura de Pastas",
+    "vault rules"
+  ],
+  "/templates": [
+    "classes",
+    "deities",
+    "factions",
+    "handouts",
+    "hub",
+    "locations",
+    "lore",
+    "magic items",
+    "maps",
+    "monsters",
+    "npcs",
+    "rules",
+    "spells"
+  ]
+}
