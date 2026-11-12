@@ -54,7 +54,7 @@ O custo é por pessoa: **10 PO × (nível novo)²**, quase sempre.
 
 ## A Prova de Classe
 
-Além de pagar, cada classe tem uma **prova curta**, ligada à sua prática. O treino leva **alguns dias de descanso** (por padrão, 3 dias por nível novo).
+Além de pagar, cada classe tem uma **prova curta**, ligada à sua prática. O treino leva **alguns dias de descanso** (por padrão, mínimo de 1 dia por nível novo).
 
 | Classe | Prova |
 |---|---|
