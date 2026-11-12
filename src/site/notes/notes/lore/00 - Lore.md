@@ -41,7 +41,7 @@ Uma nota para cada povo.
 | [[notes/lore/Mundo/Povos de Thalexia/Espécies/Anões\|Anões]] | Presença forte na Costa Oca e nas cidades, como mão de obra qualificada. |
 | [[notes/lore/Mundo/Povos de Thalexia/Espécies/Gnomos\|Gnomos]] | Estudiosos e magos, mais comuns nas regiões dos Limiatrofes. |
 | [[notes/lore/Mundo/Povos de Thalexia/Espécies/Halflings\|Halflings]] | Comuns como os humanos. Muitos trabalham com arte e serviços. |
-| [[notes/lore/Mundo/Povos de Thalexia/Espécies/Draconatos\|Draconatos]] | Fortalezas de pedra em Prismora e Ter'sen-Ly. Seguem um rei e uma rainha. |
+| [[notes/lore/Mundo/Povos de Thalexia/Espécies/Draconatos\|Draconatos]] | Fortalezas de pedra em Prismora e Ter'sen-Ly. Os de Prismora seguem um rei, e os de Ter'sen-Ly, uma rainha. |
 | [[notes/lore/Mundo/Povos de Thalexia/Espécies/Gigantes e Goliaths\|Gigantes e Goliaths]] | Vilas do norte, da Costa Oca e das cidades, no trabalho pesado de forjas, obras e estaleiros. |
 | [[notes/lore/Mundo/Povos de Thalexia/Espécies/Orcs e Meio-Orcs\|Orcs e Meio-Orcs]] | Orcs vivem em tribos, longe das cidades. Meio-orcs vivem no meio de todo mundo. |
 | [[notes/lore/Mundo/Povos de Thalexia/Espécies/Goblins\|Goblins]] | Colonizados e escravizados no passado, depois libertados por uma resistência goblin. |

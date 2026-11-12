@@ -11,7 +11,7 @@
 > Há draconatos em quase toda parte, mas a maioria vive em [[notes/locations/Regiões/Prismora/Prismora\|Prismora]] (em torno do vulcão [[notes/locations/Regiões/Prismora/Pontos de Interesse/Dargbur/Dargbur\|Dargbur]]) e em [[notes/locations/Regiões/Ter'sen-Ly/Ter'sen-Ly\|Ter'sen-Ly]].
 
 > [!info] Amplamente aceito
-> Seguem um rei e uma rainha, vivem em fortalezas de pedra e têm muitos templos, inclusive fora de suas terras.
+> Os de Dargbur seguem um rei, e os de Ter'sen-Ly, uma rainha. Vivem em fortalezas de pedra e têm muitos templos, inclusive fora de suas terras.
 
 > [!info] Amplamente aceito
 > Fora de casa, são grandes criminosos, aristocratas, políticos, estudantes ou eremitas.
@@ -24,5 +24,8 @@
 > [!quote] Lenda
 > Dizem que há um dragão branco nas terras de [[notes/locations/Regiões/Terrasen/Terrasen\|Terrasen]] e [[notes/locations/Regiões/Ter'sen-Ly/Ter'sen-Ly\|Ter'sen-Ly]]. Ver [[notes/lore/Lendas/A Lenda dos Dragões\|A Lenda dos Dragões]].
 
+> [!info] Amplamente aceito
+> As casas de [[notes/locations/Regiões/Prismora/Pontos de Interesse/Dargbur/Dargbur\|Dargbur]] são conhecidas como [[notes/factions/Facções/Escamas da Brasa/Escamas da Brasa\|Escamas da Brasa]], e as de [[notes/locations/Regiões/Ter'sen-Ly/Ter'sen-Ly\|Ter'sen-Ly]], como [[notes/factions/Facções/Escamas da Geada/Escamas da Geada\|Escamas da Geada]].
+
 > [!note] Pouco se sabe
-> Quem são o rei e a rainha, e onde ficam.
+> Os nomes do rei e da rainha, e onde ficam. Só se conhecem os títulos: o Rei do Vulcão e a Rainha do Gelo.

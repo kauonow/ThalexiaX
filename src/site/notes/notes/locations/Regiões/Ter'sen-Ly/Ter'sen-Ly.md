@@ -21,7 +21,7 @@
 
 ## Descrição
 
-Região no noroeste do mapa, junto à Muralha. Casa dos [[notes/factions/Facções/Limiatrofes/Subfacções/Liminantes (subfacção)/Liminantes (subfacção)\|Liminantes (subfacção)]], liderados por [[notes/npcs/Globais/Limiatrofes/Aizal Kleeck\|Aizal Kleeck]].
+Região no noroeste do mapa, junto à Muralha. Casa dos [[notes/factions/Facções/Limiatrofes/Subfacções/Liminantes (subfacção)/Liminantes (subfacção)\|Liminantes (subfacção)]], liderados por [[notes/npcs/Globais/Limiatrofes/Aizal Kleeck\|Aizal Kleeck]]. Também vivem aqui casas draconatas, conhecidas como [[notes/factions/Facções/Escamas da Geada/Escamas da Geada\|Escamas da Geada]].
 
 ## Clima e Características
 

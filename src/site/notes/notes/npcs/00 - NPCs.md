@@ -31,6 +31,18 @@ Quase o mundo todo conhece. Separados por facção.
 | [[notes/npcs/Globais/Limiatrofes/Eldamar Sadida\|Eldamar Sadida]] | Druida de Sarut, líder dos Sadidas | [[notes/factions/Facções/Limiatrofes/Subfacções/Sadidas (subfacção)/Sadidas (subfacção)\|Sadidas (subfacção)]] | [[notes/locations/Regiões/Lumina/Cidades/Garten/Garten\|Garten]] |
 | [[notes/npcs/Globais/Limiatrofes/Salorin Tiessonor\|Salorin Tiessonor]] | Mago e líder dos Limiatrofes | [[notes/factions/Facções/Limiatrofes/Limiatrofes\|Limiatrofes]] | [[notes/locations/Pontos de Interesse/A Torre/A Torre\|A Torre]] |
 
+### Escamas da Brasa
+
+| NPC | Quem é | Facção | Local |
+|---|---|---|---|
+| [[notes/npcs/Globais/Escamas da Brasa/Pyrax, Rei do Vulcão\|Pyrax, Rei do Vulcão]] | Rei dos draconatos de Dargbur, só conhecido pelo título | [[notes/factions/Facções/Escamas da Brasa/Escamas da Brasa\|Escamas da Brasa]] | — |
+
+### Escamas da Geada
+
+| NPC | Quem é | Facção | Local |
+|---|---|---|---|
+| [[notes/npcs/Globais/Escamas da Geada/Serena, Rainha do Gelo\|Serena, Rainha do Gelo]] | Rainha dos draconatos de Ter'sen-Ly, só conhecida pelo título | [[notes/factions/Facções/Escamas da Geada/Escamas da Geada\|Escamas da Geada]] | — |
+
 ### Piratas
 
 | NPC | Quem é | Facção | Local |

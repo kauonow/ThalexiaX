@@ -21,7 +21,7 @@
 
 ## Descrição
 
-Vulcão em [[notes/locations/Regiões/Prismora/Prismora\|Prismora]]. Muitos [[notes/lore/Mundo/Povos de Thalexia/Espécies/Draconatos\|Draconatos]] vivem nele e ao redor dele, em fortalezas de pedra.
+Vulcão em [[notes/locations/Regiões/Prismora/Prismora\|Prismora]]. Muitos [[notes/lore/Mundo/Povos de Thalexia/Espécies/Draconatos\|Draconatos]] vivem nele e ao redor dele, em fortalezas de pedra. Essas casas são conhecidas como [[notes/factions/Facções/Escamas da Brasa/Escamas da Brasa\|Escamas da Brasa]].
 
 ## Clima e Características
 

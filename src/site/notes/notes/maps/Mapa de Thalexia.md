@@ -11,7 +11,7 @@ O mundo conhecido. A [[notes/locations/Regiões/Terrasen/Pontos de Interesse/Gra
 
 ```leaflet
 id: thalexia
-image: [[Thalexia em Branco.png]]
+image: [[Thalexia remnant.png]]
 bounds: [[0,0], [1448, 2048]]
 height: 650px
 width: 100%

@@ -16,7 +16,7 @@ Há muitos povos, mas não todos. Os humanos são numerosos, e as raças comuns 
 - [[notes/lore/Mundo/Povos de Thalexia/Espécies/Humanos\|Humanos]]: numerosos, adaptáveis, de vida curta e sem terras próprias, em todos os papéis.
 - [[notes/lore/Mundo/Povos de Thalexia/Espécies/Orcs e Meio-Orcs\|Orcs e Meio-Orcs]]: tribos de orcs puros que sobreviveram e meio-orcs nas sociedades.
 - [[notes/lore/Mundo/Povos de Thalexia/Espécies/Forjados\|Forjados]]: seres feitos para a guerra, hoje sem lugar.
-- [[notes/lore/Mundo/Povos de Thalexia/Espécies/Draconatos\|Draconatos]]: dos vulcões de Prismora e de Ter'sen-Ly, alguns seguem um rei e uma rainha e colonizaram os kobolds. Poucos vivem nas outras sociedades.
+- [[notes/lore/Mundo/Povos de Thalexia/Espécies/Draconatos\|Draconatos]]: dos vulcões de Prismora e de Ter'sen-Ly, alguns seguem um rei, e outros, uma rainha, e colonizaram os kobolds. Poucos vivem nas outras sociedades.
 - [[notes/lore/Mundo/Povos de Thalexia/Espécies/Kobolds\|Kobolds]]: colonizados pelos draconatos, com algumas tribos livres.
 - [[notes/lore/Mundo/Povos de Thalexia/Espécies/Goblins\|Goblins]]: libertados por uma antiga resistência, ainda à margem.
 - [[notes/lore/Mundo/Povos de Thalexia/Espécies/Anões\|Anões]]: fortes na Costa Oca e nas cidades, base da mão de obra qualificada.
