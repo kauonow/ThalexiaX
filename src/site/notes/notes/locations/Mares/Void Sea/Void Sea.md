@@ -38,6 +38,9 @@ _Pouco se sabe._
 > [!question] Rumor
 > Dizem que ninguém que já foi ao Void Sea retornou.
 
+> [!quote] Lenda
+> Dizem que existe uma prisão no Void Sea, cercada de bestas marinhas. Ver [[notes/locations/Pontos de Interesse/IMPEX/IMPEX\|IMPEX]].
+
 > [!note] Pouco se sabe
 > Pouco se sabe além disso.
 

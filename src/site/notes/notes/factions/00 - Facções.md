@@ -26,6 +26,7 @@ Dois grupos disputam o rumo do mundo, e uma lenda fala de um terceiro. O povo co
 | [[notes/factions/Facções/Ganchos de Hierro/Ganchos de Hierro\|Ganchos de Hierro]] | Piratas, a maioria ex-militares dos Bastionarcas |
 | [[notes/factions/Facções/Vaelari/Vaelari\|Vaelari]] | Guardiões neutros, divididos em quatro ordens, uma para cada elemento |
 | [[notes/factions/Facções/Serapios/Serapios\|Serapios]] | Gangue criminosa do Canal Malta |
+| [[notes/factions/Facções/Os Sete/Os Sete\|Os Sete]] | Gangue dos mares, que dizem estar toda presa |
 | [[notes/factions/Facções/Escamas da Brasa/Escamas da Brasa\|Escamas da Brasa]] | Casas draconatas de Dargbur, em fortalezas de pedra |
 | [[notes/factions/Facções/Escamas da Geada/Escamas da Geada\|Escamas da Geada]] | Casas draconatas de Ter'sen-Ly, em fortalezas de pedra |
 

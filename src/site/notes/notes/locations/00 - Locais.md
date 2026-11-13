@@ -79,6 +79,7 @@ Marcos, construções e lugares dentro de cidades e regiões. Os últimos não p
 | [[notes/locations/Pontos de Interesse/Lanternfall/Lanternfall\|Lanternfall]] | — | Ilha pequena a leste. |
 | [[notes/locations/Pontos de Interesse/O Sineiral/O Sineiral\|O Sineiral]] | — | Ilha ao norte do mapa. |
 | [[notes/locations/Pontos de Interesse/O Gullet/O Gullet\|O Gullet]] | — | Redemoinho gigante no noroeste do mapa. Surgiu há poucos anos, e os navios o evitam. |
+| [[notes/locations/Pontos de Interesse/IMPEX/IMPEX\|IMPEX]] | — | Prisão que o povo chama de Fosso Negro. Dizem que fica no Void Sea. |
 
 ## Como as Pastas Funcionam
 
