@@ -115,6 +115,7 @@ O que o povo conta. Cada lenda tem a versão pública, e o quanto se pode confia
 | [[notes/lore/Lendas/A Lenda do Muro\|A Lenda do Muro]] | Solano, o Muro, teria sido forjado pelos Bastionarcas e se rebelado. | Lenda |
 | [[notes/lore/Lendas/A Lenda dos Dragões\|A Lenda dos Dragões]] | Um dragão branco viveria em Terrasen e em Ter'sen-Ly. | Lenda |
 | [[notes/lore/Lendas/A Lenda dos Necromantes\|A Lenda dos Necromantes]] | Necromantes poderosos capazes de trazer pessoas de volta à vida. | Lenda |
+| [[notes/lore/Lendas/A Lenda de El Perro Del Diablo\|A Lenda de El Perro Del Diablo]] | Uma criatura que muita gente vê ao tentar cruzar a Grande Muralha, antes de morrer. | Lenda |
 
 ## Crenças e Instituições
 

@@ -30,6 +30,9 @@ Uma muralha imensa que divide [[notes/locations/Regiões/Terrasen/Terrasen\|Terr
 ## O que se Diz
 
 > [!quote] Lenda
+> Dizem que muita gente vê uma criatura ao tentar cruzar a Muralha e que quase todos que a veem morrem. Ver [[notes/lore/Lendas/A Lenda de El Perro Del Diablo\|A Lenda de El Perro Del Diablo]].
+
+> [!quote] Lenda
 > Dizem que a Muralha foi erguida para nos proteger do resto do mundo, onde a maldição avançou mais.
 
 > [!note] Pouco se sabe
