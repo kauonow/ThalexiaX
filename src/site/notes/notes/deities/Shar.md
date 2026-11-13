@@ -24,7 +24,7 @@
 > Divindade da noite, da escuridão e dos segredos.
 
 > [!info] Amplamente aceito
-> É temida, e em alguns lugares o culto é escondido.
+> É vista com receio, e em alguns lugares o culto é escondido.
 
 > [!info] Amplamente aceito
 > Assim como os outros, possui outros nomes e vulgos.
