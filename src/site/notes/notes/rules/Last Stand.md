@@ -14,9 +14,9 @@ O **Last Stand** é a sua morte digna. Se seu personagem vai cair numa luta peri
 
 ## Como Funciona
 
-- **Escolha.** Você escolhe **uma opção da sua classe** (veja abaixo). A campanha começa no nível 5, então escolha ao criar o personagem. Só o Mestre autoriza trocar de opção, e só ao subir de nível.
+- **Escolha.** Você escolhe **uma opção da sua classe** (veja abaixo). A campanha começa no nível 5, então escolha ao criar o personagem. É autorizado trocar de opção, mas só ao subir de nível.
 - **Multiclasse.** Você tem uma única opção, de qualquer classe em que tenha 3 níveis ou mais.
-- **Quando invocar.** Só quando seu personagem **cai a 0 PV** ou **antes de rolar a primeira salvaguarda contra a morte**. O Mestre avisa na hora em que você cair a 0 PV, e só nessa hora. Depois da primeira salvaguarda, a chance acabou.
+- **Quando invocar.** Só quando seu personagem **cai a 0 PV** ou **antes de rolar a primeira salvaguarda contra a morte**. Eu (DM) aviso na hora em que você cair a 0 PV, e só nessa hora. Depois da primeira salvaguarda, a chance acabou.
 - **Como invocar.** É uma **ação livre**. Não gasta reação e funciona mesmo se você estiver inconsciente.
 - **O que acontece.** O efeito resolve na hora. Seu personagem não faz mais nada além do que a opção descreve.
 - **Depois.** Quando o efeito se resolve, seu personagem **morre de vez**, em no máximo 5 minutos. Ele não aceita cura nem estabilização, e **nenhuma ressurreição funciona**, nem *Ressurreição Verdadeira* nem *Desejo*. Também abre mão de tudo o que impediria a morte (como a Resistência Implacável do meio-orc). É uma morte definitiva.
@@ -36,7 +36,7 @@ O **Last Stand** é a sua morte digna. Se seu personagem vai cair numa luta peri
 - O Last Stand é o seu momento: combinem na mesa para que ninguém roube o holofote.
 - Não vale para NPCs.
 - O que acontece com seu personagem depois da morte fica **entre você e o Mestre**. Esta não é a [[notes/rules/A Travessia\|A Travessia]].
-- Se você preferir a morte normal das regras, avise o Mestre.
+- Se você preferir a morte normal das regras, avise o DM (eu).
 
 ## Opções por Classe
 
