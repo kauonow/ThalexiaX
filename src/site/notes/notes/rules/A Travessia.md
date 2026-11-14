@@ -25,7 +25,7 @@ Em Thalexia, a morte não chega do mesmo jeito para todo mundo. Quem já tem pes
 - Se você prefere a **morte normal** das regras, avise o Mestre.
 - Se seu personagem voltar com alguma lembrança apagada ou algo que não pode contar, isso vale **dentro da história**. Fora dela, conversem à vontade.
 
-Ver também [[notes/rules/Criando seu Personagem\|Criando seu Personagem]] e [[notes/rules/00 - Regras de Mundo\|00 - Regras de Mundo]].
+Ver também [[notes/rules/Last Stand\|Last Stand]], [[notes/rules/Criando seu Personagem\|Criando seu Personagem]] e [[notes/rules/00 - Regras de Mundo\|00 - Regras de Mundo]].
 
 
 

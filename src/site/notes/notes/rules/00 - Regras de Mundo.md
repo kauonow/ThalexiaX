@@ -19,6 +19,7 @@ Regras e orientações para criar personagens em Thalexia. Comece por [[notes/ru
 | [[notes/rules/Marcos e Treinamento\|Marcos e Treinamento]] | O grupo sobe de nível por marcos, e cada jogador precisa treinar para subir. |
 | [[notes/rules/O Duelo\|O Duelo]] | Combate decidido com um único golpe, só por acordo entre duas pessoas. |
 | [[notes/rules/A Travessia\|A Travessia]] | O que acontece quando um personagem de nível 5 ou mais falha o terceiro teste de morte. |
+| [[notes/rules/Last Stand\|Last Stand]] | Opção de classe, escolhida por cada jogador, para morrer de vez com um último efeito poderoso. |
 
 ## Índice
 

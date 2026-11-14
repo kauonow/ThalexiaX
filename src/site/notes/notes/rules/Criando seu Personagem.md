@@ -28,6 +28,10 @@ A campanha começa no **funeral de Dorian Vane, o Turrão**, alguém que marcou 
 - O grupo sobe de nível por **marcos**, e cada jogador precisa **treinar** (quase sempre pagando em ouro): [[notes/rules/Marcos e Treinamento\|Marcos e Treinamento]]. Guarde ouro e pense em quem pode ensinar seu personagem.
 - Existe uma regra de **duelo** para combates decididos num golpe só, por acordo dos dois lados: [[notes/rules/O Duelo\|O Duelo]].
 
+## Last Stand
+
+- Escolha uma opção de **Last Stand** da sua classe: um último efeito poderoso, ao cair, em troca da própria vida. A campanha começa no nível 5, então escolha agora: [[notes/rules/Last Stand\|Last Stand]].
+
 ## Sua Divindade
 
 Se seu personagem venera um deus, diga ao Mestre. O panteão é único e compartilhado, e o Mestre coloca a divindade no lugar certo. Ver [[notes/deities/00 - Panteão\|00 - Panteão]].
