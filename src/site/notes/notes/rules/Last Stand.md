@@ -43,7 +43,7 @@ O **Last Stand** é a sua morte digna. Se seu personagem vai cair numa luta peri
 Escolha **uma** das três opções da sua classe. Vale exatamente o que está descrito aqui.
 
 > [!note] Medidas
-> As distâncias estão em pés, como no livro: 5 pés = 1,5 m, 100 pés = 30 m e 1.000 pés = 300 m.
+> As distâncias estão em pés. 5 pés = 1,5 m, 100 pés = 30 m e 1.000 pés = 300 m.
 
 ### Artífice
 
