@@ -1,0 +1,73 @@
+<link rel="stylesheet" href="https://unpkg.com" />
+<script src="https://unpkg.com"></script>
+<script src="https://cloudflare.com"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  // Find all code blocks tagged with 'leaflet'
+  const leafletBlocks = document.querySelectorAll("pre > code.language-leaflet");
+
+  leafletBlocks.forEach((codeBlock, index) => {
+    const preElement = codeBlock.parentElement;
+    let config;
+
+    try {
+      // Parse the YAML inside your Obsidian leaflet block
+      config = jsyaml.load(codeBlock.textContent);
+    } catch (e) {
+      console.error("Failed to parse Leaflet YAML:", e);
+      return;
+    }
+
+    // Create a container div to replace the code block
+    const mapDiv = document.createElement("div");
+    mapDiv.id = config.id || `dg-leaflet-map-${index}`;
+    mapDiv.style.height = config.height || "500px";
+    mapDiv.style.width = config.width || "100%";
+    mapDiv.style.zIndex = "1";
+    preElement.replaceWith(mapDiv);
+
+    // Initialize the Leaflet map
+    const lat = config.lat || 0;
+    const long = config.long || 0;
+    const zoom = config.defaultZoom || 5;
+
+    const map = L.map(mapDiv.id).setView([lat, long], zoom);
+
+    // Handle Custom Image Maps vs. Standard OpenStreetMap Tiles
+    if (config.image) {
+      // Clean Obsidian [[wikilink]] syntax to get the filename
+      const imgName = config.image.replace(/[\[\]]/g, "");
+      // Digital Garden stores images in /img/user/ by default
+      const imgUrl = `/img/user/${encodeURIComponent(imgName)}`;
+      const bounds = config.bounds || [[0, 0], [1000, 1000]];
+
+      L.CRS.Simple && (map.options.crs = L.CRS.Simple);
+      L.imageOverlay(imgUrl, bounds).addTo(map);
+      map.fitBounds(bounds);
+    } else {
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: config.maxZoom || 19,
+        attribution: "&copy; OpenStreetMap contributors"
+      }).addTo(map);
+    }
+
+    // Render markers defined directly in the code block
+    if (config.marker) {
+      const markers = Array.isArray(config.marker) ? config.marker : [config.marker];
+      markers.forEach((m) => {
+        const parts = m.split(",").map((s) => s.trim());
+        if (parts.length >= 3) {
+          const mLat = parseFloat(parts[1]);
+          const mLng = parseFloat(parts[2]);
+          const linkText = parts[3] ? parts[3].replace(/[\[\]]/g, "") : "";
+          const markerObj = L.marker([mLat, mLng]).addTo(map);
+          if (linkText) {
+            markerObj.bindPopup(`<b>${linkText}</b>`);
+          }
+        }
+      });
+    }
+  });
+});
+</script>
