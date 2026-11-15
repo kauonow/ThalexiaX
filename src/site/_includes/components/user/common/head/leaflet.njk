@@ -3,48 +3,63 @@
 <script src="https://cloudflare.com"></script>
 
 <script>
-document.addEventListener("DOMContentLoaded", () => {
-  // Find all code blocks tagged with 'leaflet'
-  const leafletBlocks = document.querySelectorAll("pre > code.language-leaflet");
+function renderDigitalGardenLeaflets() {
+  // Match both <pre class="language-leaflet"> and <code class="language-leaflet">
+  const candidates = document.querySelectorAll("pre.language-leaflet, pre > code.language-leaflet");
 
-  leafletBlocks.forEach((codeBlock, index) => {
-    const preElement = codeBlock.parentElement;
+  candidates.forEach((el, index) => {
+    const preElement = el.tagName === "PRE" ? el : el.parentElement;
+    if (!preElement || preElement.dataset.leafletProcessed) return;
+    preElement.dataset.leafletProcessed = "true";
+
     let config;
-
     try {
-      // Parse the YAML inside your Obsidian leaflet block
-      config = jsyaml.load(codeBlock.textContent);
+      // Wrap [[wikilinks]] in quotes so js-yaml reads them as strings instead of nested arrays
+      const sanitizedYaml = preElement.textContent.replace(/(\[\[.*?\]\])/g, '"$1"');
+      config = jsyaml.load(sanitizedYaml);
     } catch (e) {
       console.error("Failed to parse Leaflet YAML:", e);
       return;
     }
 
-    // Create a container div to replace the code block
+    if (!config || typeof config !== "object") return;
+
+    // Create map container
     const mapDiv = document.createElement("div");
     mapDiv.id = config.id || `dg-leaflet-map-${index}`;
-    mapDiv.style.height = config.height || "500px";
+    mapDiv.style.height = config.height || "650px";
     mapDiv.style.width = config.width || "100%";
     mapDiv.style.zIndex = "1";
+    mapDiv.style.borderRadius = "8px";
     preElement.replaceWith(mapDiv);
 
-    // Initialize the Leaflet map
-    const lat = config.lat || 0;
-    const long = config.long || 0;
-    const zoom = config.defaultZoom || 5;
+    const isCustomImage = Boolean(config.image);
+    const lat = Number(config.lat) || 0;
+    const long = Number(config.long) || 0;
+    const zoom = config.defaultZoom !== undefined ? Number(config.defaultZoom) : 0;
 
-    const map = L.map(mapDiv.id).setView([lat, long], zoom);
+    const mapOptions = {
+      minZoom: config.minZoom !== undefined ? Number(config.minZoom) : -2,
+      maxZoom: config.maxZoom !== undefined ? Number(config.maxZoom) : 4,
+      zoomDelta: config.zoomDelta !== undefined ? Number(config.zoomDelta) : 0.5,
+      zoomSnap: config.zoomDelta !== undefined ? Number(config.zoomDelta) : 0.5
+    };
 
-    // Handle Custom Image Maps vs. Standard OpenStreetMap Tiles
-    if (config.image) {
-      // Clean Obsidian [[wikilink]] syntax to get the filename
-      const imgName = config.image.replace(/[\[\]]/g, "");
-      // Digital Garden stores images in /img/user/ by default
+    if (isCustomImage) {
+      mapOptions.crs = L.CRS.Simple;
+    }
+
+    const map = L.map(mapDiv.id, mapOptions).setView([lat, long], zoom);
+
+    if (isCustomImage) {
+      const imgName = String(config.image).replace(/[\[\]]/g, "").trim();
       const imgUrl = `/img/user/${encodeURIComponent(imgName)}`;
-      const bounds = config.bounds || [[0, 0], [1000, 1000]];
+      const bounds = Array.isArray(config.bounds) ? config.bounds : [[0, 0], [1000, 1000]];
 
-      L.CRS.Simple && (map.options.crs = L.CRS.Simple);
       L.imageOverlay(imgUrl, bounds).addTo(map);
-      map.fitBounds(bounds);
+      if (config.lat === undefined || config.long === undefined) {
+        map.fitBounds(bounds);
+      }
     } else {
       L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         maxZoom: config.maxZoom || 19,
@@ -52,22 +67,30 @@ document.addEventListener("DOMContentLoaded", () => {
       }).addTo(map);
     }
 
-    // Render markers defined directly in the code block
+    // Render markers
     if (config.marker) {
       const markers = Array.isArray(config.marker) ? config.marker : [config.marker];
       markers.forEach((m) => {
-        const parts = m.split(",").map((s) => s.trim());
+        const parts = String(m).split(",").map((s) => s.trim());
         if (parts.length >= 3) {
           const mLat = parseFloat(parts[1]);
           const mLng = parseFloat(parts[2]);
-          const linkText = parts[3] ? parts[3].replace(/[\[\]]/g, "") : "";
-          const markerObj = L.marker([mLat, mLng]).addTo(map);
-          if (linkText) {
-            markerObj.bindPopup(`<b>${linkText}</b>`);
+          const rawLink = parts[3] ? parts[3].replace(/[\[\]]/g, "").trim() : "";
+
+          if (!isNaN(mLat) && !isNaN(mLng)) {
+            const markerObj = L.marker([mLat, mLng]).addTo(map);
+            if (rawLink) {
+              // Convert note name into a Digital Garden slug link
+              const slug = rawLink.toLowerCase().replace(/[^a-z0-9\u00C0-\u017F]+/g, "-").replace(/^-|-$/g, "");
+              markerObj.bindPopup(`<a href="/notes/${slug}/"><b>${rawLink}</b></a>`);
+            }
           }
         }
       });
     }
   });
-});
+}
+
+document.addEventListener("DOMContentLoaded", renderDigitalGardenLeaflets);
+window.addEventListener("load", renderDigitalGardenLeaflets);
 </script>
