@@ -30,7 +30,7 @@ Floresta mágica escura e azulada, ao sul de [[notes/locations/Regiões/Lumina/L
 ## O que se Diz
 
 > [!quote] Lenda
-> Dizem que há almas vagando pela floresta.
+> Dizem que há almas vagando pela floresta. Ver: [[notes/lore/Lendas/A Lenda da Floresta do Sudoeste\|A Lenda da Floresta do Sudoeste]]
 
 > [!question] Rumor
 > Dizem que a magia é muito mais intensa nesses lugares.

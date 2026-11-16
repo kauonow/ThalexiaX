@@ -26,6 +26,9 @@
 > [!info] Amplamente aceito
 > Assim como os outros, possui outros nomes e vulgos.
 
+> [!quote] Lenda
+> Alguns relacionam ela com [[notes/lore/Lendas/A Lenda de Napfa\|A Lenda de Napfa]].
+
 ## Devotos e Clero
 
 > [!info] Amplamente aceito

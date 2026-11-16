@@ -6,6 +6,7 @@
 # A Lenda de El Perro Del Diablo
 
 ![El Perro Del Diablo.jpeg\|300](/img/user/attachments/El%20Perro%20Del%20Diablo.jpeg)
+*Retrato da imaginação do povo, como aparece em histórias contadas de boca em boca, em livros de contos e, às vezes, em pinturas. Ninguém comprovou que seja fiel.*
 
 > [!quote] Lenda
 > Dizem que muita gente que tenta cruzar a [[notes/locations/Regiões/Terrasen/Pontos de Interesse/Grande Muralha de Aurethel/Grande Muralha de Aurethel\|Grande Muralha]], em [[notes/locations/Regiões/Terrasen/Terrasen\|Terrasen]], vê uma criatura quando começa a ficar sem forças: **El Perro Del Diablo**.

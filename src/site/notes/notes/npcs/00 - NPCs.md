@@ -49,7 +49,7 @@ Quase o mundo todo conhece. Separados por facção.
 |---|---|---|---|
 | [[notes/npcs/Globais/Piratas/Nemo\|Nemo]] | Pirata temido, a Maldição de Thalexia | — | — |
 | [[notes/npcs/Globais/Piratas/Serapio Vell\|Serapio Vell]] | Lendário pirata, símbolo de liberdade entre os piratas | — | — |
-| [[notes/npcs/Globais/Piratas/Hernandez Neto\|Hernandez Neto]] | Líder dos Sete, gangue dos mares | [[notes/factions/Facções/Os Sete/Os Sete\|Os Sete]] | — |
+| [[notes/npcs/Globais/Piratas/Hernandez\|Hernandez]] | Líder dos Sete, gangue dos mares | [[notes/factions/Facções/Os Sete/Os Sete\|Os Sete]] | — |
 
 ## Regionais
 
@@ -60,6 +60,8 @@ Regiões conhecem, separados pela região:
 | [[notes/npcs/Regionais/Canal Malta/Red Belle\|Red Belle]] | Dizem que comanda os Serapios | — | [[notes/locations/Mares/Canal Malta/Canal Malta\|Canal Malta]] |
 | [[notes/npcs/Regionais/Ilhas de Hierro/Solano, o Muro\|Solano, o Muro]] | Capitão-geral dos Ganchos de Hierro | [[notes/factions/Facções/Ganchos de Hierro/Ganchos de Hierro\|Ganchos de Hierro]] | [[notes/locations/Regiões/Ilhas de Hierro/Ilhas de Hierro\|Ilhas de Hierro]] |
 | [[notes/npcs/Regionais/Florestas do Sudoeste/O Encourado\|O Encourado]] | Canibal procurado das florestas do sudoeste | — | Florestas do sudoeste |
+| [[notes/npcs/Regionais/Sul do Nhalos/Ignacio Pérez Salazar\|Ignacio Pérez Salazar]] | O Cobrador, chefe do crime em parte do sul do Nhalos | [[notes/factions/Facções/Ganchos de Hierro/Ganchos de Hierro\|Ganchos de Hierro]] | [[notes/locations/Regiões/Sul do Nhalos/Sul do Nhalos\|Sul do Nhalos]] |
+| [[notes/npcs/Regionais/Sul do Nhalos/Grondon, o Sábio Bêbado\|Grondon, o Sábio Bêbado]] | Tortle bêbado que conta histórias nas docas do sul | — | Docas do sul |
 
 ## Locais
 

@@ -36,7 +36,7 @@ _Pouco se sabe._
 > Os prisioneiros mais procurados do mundo apodrecem nos últimos andares.
 
 > [!question] Rumor
-> Os [[notes/factions/Facções/Os Sete/Os Sete\|Sete]] estão presos lá, e [[notes/npcs/Globais/Piratas/Hernandez Neto\|Hernandez Neto]] tem um lugar especial nos andares mais seguros.
+> Os [[notes/factions/Facções/Os Sete/Os Sete\|Sete]] estão presos lá, e [[notes/npcs/Globais/Piratas/Hernandez\|Hernandez]] tem um lugar especial nos andares mais seguros.
 
 > [!question] Rumor
 > O [[notes/npcs/Regionais/Florestas do Sudoeste/O Encourado\|Encourado]] foi preso e executado lá.
@@ -46,6 +46,9 @@ _Pouco se sabe._
 
 > [!quote] Lenda
 > No fundo da prisão há uma passagem para o purgatório.
+
+> [!quote] Lenda
+> Há quem diga que [[notes/lore/Lendas/A Lenda de Apollyon\|Apollyon]] está preso lá.
 
 > [!note] Pouco se sabe
 > Quem a administra de verdade e o que acontece lá dentro.

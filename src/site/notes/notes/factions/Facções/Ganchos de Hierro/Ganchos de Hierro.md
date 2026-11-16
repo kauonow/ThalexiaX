@@ -39,6 +39,9 @@ Depende de quem conta.
 > [!success] Comprovado
 > São criminosos: cometem furtos, roubos e assassinatos.
 
+> [!info] Amplamente aceito
+> Têm um cobrador conhecido, [[notes/npcs/Regionais/Sul do Nhalos/Ignacio Pérez Salazar\|Ignacio Pérez Salazar]].
+
 - Defendem a sua própria visão de liberdade.
 - Alguns os veem como libertadores.
 - Navegam os mares, contam histórias e inspiram outros grupos de piratas menores.
@@ -53,6 +56,7 @@ Depende de quem conta.
 
 ## Rostos (NPCs)
 
+- [[notes/npcs/Regionais/Sul do Nhalos/Ignacio Pérez Salazar\|Ignacio Pérez Salazar]]
 - [[notes/npcs/Regionais/Ilhas de Hierro/Solano, o Muro\|Solano, o Muro]]
 
 { .block-language-dataview}

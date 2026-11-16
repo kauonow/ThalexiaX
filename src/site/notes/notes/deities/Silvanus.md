@@ -26,10 +26,14 @@
 > [!info] Amplamente aceito
 > Assim como os outros, possui outros nomes e vulgos.
 
+> [!quote] Lenda
+> Muitos relacionam ele com a [[notes/lore/Lendas/A Lenda de Napfa\|A Lenda de Napfa]].
+
 ## Devotos e Clero
 
 > [!info] Amplamente aceito
 > Druidas e quem vive nas florestas rezam a ele. Quem tem conexão com a natureza também costuma orar.
+
 
 ## Símbolos e Rituais
 

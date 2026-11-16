@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/factions/faccoes/os-sete/os-sete/","dg-note-properties":{"Name":"Os Sete","Type":"Facção","Parent":null,"Leaders":["[[notes/npcs/Globais/Piratas/Hernandez Neto]]"],"Regions":[],"Wants":"Pouco se sabe","Cover":null,"Base":"factions"}}
+{"dg-publish":true,"permalink":"/notes/factions/faccoes/os-sete/os-sete/","dg-note-properties":{"Name":"Os Sete","Type":"Facção","Parent":null,"Leaders":["[[notes/npcs/Globais/Piratas/Hernandez]]"],"Regions":[],"Wants":"Pouco se sabe","Cover":null,"Base":"factions"}}
 ---
 
 
@@ -12,7 +12,7 @@
 > ---|---|
 > Tipo | Facção |
 > Facção-mãe | `=this.Parent` |
-> Rostos | [[notes/npcs/Globais/Piratas/Hernandez Neto\|Hernandez Neto]] |
+> Rostos | [[notes/npcs/Globais/Piratas/Hernandez\|Hernandez]] |
 > Regiões |  |
 > Dizem que Querem | Pouco se sabe |
 
@@ -37,13 +37,16 @@ _Pouco se sabe._
 > Estão todos presos hoje na [[notes/locations/Pontos de Interesse/IMPEX/IMPEX\|IMPEX]].
 
 > [!question] Rumor
-> O líder, [[notes/npcs/Globais/Piratas/Hernandez Neto\|Hernandez Neto]], já teve uma recompensa de 20 a 40 mil PO pela cabeça.
+> O líder, [[notes/npcs/Globais/Piratas/Hernandez\|Hernandez]], já teve uma recompensa de 20 a 40 mil PO pela cabeça.
+
+> [!question] Rumor
+> Dizem que o Cobrador dos [[notes/factions/Facções/Ganchos de Hierro/Ganchos de Hierro\|Ganchos de Hierro]], [[notes/npcs/Regionais/Sul do Nhalos/Ignacio Pérez Salazar\|Ignacio Pérez Salazar]], trabalha ou já trabalhou para os Sete, os mais fieis à essa ideia acreditam que ele é um dos Sete.
 
 > [!note] Pouco se sabe
 > Quem são os outros seis, e como foram capturados.
 
 ## Rostos (NPCs)
 
-- [[notes/npcs/Globais/Piratas/Hernandez Neto\|Hernandez Neto]]
+- [[notes/npcs/Globais/Piratas/Hernandez\|Hernandez]]
 
 { .block-language-dataview}

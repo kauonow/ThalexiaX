@@ -116,6 +116,9 @@ O que o povo conta. Cada lenda tem a versão pública, e o quanto se pode confia
 | [[notes/lore/Lendas/A Lenda dos Dragões\|A Lenda dos Dragões]] | Um dragão branco viveria em Terrasen e em Ter'sen-Ly. | Lenda |
 | [[notes/lore/Lendas/A Lenda dos Necromantes\|A Lenda dos Necromantes]] | Necromantes poderosos capazes de trazer pessoas de volta à vida. | Lenda |
 | [[notes/lore/Lendas/A Lenda de El Perro Del Diablo\|A Lenda de El Perro Del Diablo]] | Uma criatura que muita gente vê ao tentar cruzar a Grande Muralha, antes de morrer. | Lenda |
+| [[notes/lore/Lendas/A Lenda de Napfa\|A Lenda de Napfa]] | Uma criatura das florestas do sudoeste que aparece quando a natureza está em perigo. | Lenda |
+| [[notes/lore/Lendas/A Lenda de Apollyon\|A Lenda de Apollyon]] | Um soldado mortal de poder divino, selado depois da grande guerra, que teria jurado destruir tudo ao se soltar. | Lenda |
+| [[notes/lore/Lendas/A Lenda da Floresta do Sudoeste\|A Lenda da Floresta do Sudoeste]] | Alucinações e uma figura impossível de vários rostos na floresta ao sudoeste de Lumina. | Lenda |
 
 ## Crenças e Instituições
 

@@ -34,6 +34,7 @@ Região ao sul do [[notes/locations/Mares/Nhalos/Nhalos\|Nhalos]].
 
 ## NPCs Aqui
 
+- [[notes/npcs/Regionais/Sul do Nhalos/Ignacio Pérez Salazar\|Ignacio Pérez Salazar]]
 
 { .block-language-dataview}
 
