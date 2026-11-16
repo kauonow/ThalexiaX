@@ -33,7 +33,7 @@ Floresta mágica escura e azulada, ao sul de [[notes/locations/Regiões/Lumina/L
 > Dizem que há almas vagando pela floresta. Ver: [[notes/lore/Lendas/A Lenda da Floresta do Sudoeste\|A Lenda da Floresta do Sudoeste]]
 
 > [!question] Rumor
-> Dizem que a magia é muito mais intensa nesses lugares.
+> Dizem que a magia é muito mais intensa aqui, como na floresta encantada de [[notes/locations/Regiões/Ostrel/Ostrel\|Ostrel]].
 
 ## NPCs Aqui
 

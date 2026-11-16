@@ -21,6 +21,9 @@
 > Dizem que a floresta é o reino de uma instabilidade única no mundo, sobrenaturalmente falando.
 
 > [!question] Rumor
+> Cochicham que essa instabilidade tem a ver com a magia intensa das florestas encantadas de [[notes/locations/Regiões/Ostrel/Ostrel\|Ostrel]].
+
+> [!question] Rumor
 > Cochicham que há espíritos malignos e até criaturas infernais, vindas dos círculos mais profundos do abismo em busca de servos ou de vítimas.
 
 > [!note] Pouco se sabe

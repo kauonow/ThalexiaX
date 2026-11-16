@@ -32,6 +32,9 @@ Ilha ao sul.
 > [!quote] Lenda
 > Dizem que a floresta de Ostrel é encantada.
 
+> [!quote] Lenda
+> Dizem que existe uma floresta parecida, escura e azulada, em [[notes/locations/Regiões/Lumina/Regiões/Ecos da Meia-Noite/Ecos da Meia-Noite\|Ecos da Meia-Noite]].
+
 > [!question] Rumor
 > Dizem que a magia é muito mais intensa nesses lugares.
 

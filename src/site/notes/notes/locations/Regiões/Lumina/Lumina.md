@@ -32,6 +32,9 @@ Região dos Limiatrofes no sudoeste.
 > [!quote] Lenda
 > Dizem que, no sudeste de Lumina, a floresta é encantada. Como a floresta de [[notes/locations/Regiões/Ostrel/Ostrel\|Ostrel]]
 
+> [!quote] Lenda
+> Dizem que algo impossível ronda a floresta de [[notes/locations/Regiões/Lumina/Regiões/Ecos da Meia-Noite/Ecos da Meia-Noite\|Ecos da Meia-Noite]], ao sudoeste. Ver [[notes/lore/Lendas/A Lenda da Floresta do Sudoeste\|A Lenda da Floresta do Sudoeste]].
+
 ## NPCs Aqui
 
 
